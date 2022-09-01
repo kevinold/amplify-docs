@@ -2,7 +2,16 @@ import { visit } from 'unist-util-visit';
 
 // flatmap
 
-export function buildPlatformPathsFromDirectory() {}
+export function buildPlatformPathsFromDirectory() {
+  return {
+    '/lib/devpreview/getting-started/q/platform/ios': {
+      page: '/lib/devpreview/getting-started/q/platform/[platform]',
+      subcategory: 'New! Amplify Mobile (Developer Preview)',
+      category: 'Amplify Libraries',
+      title: 'Getting started'
+    }
+  };
+}
 
 // custom utils functions for use with remark
 const flattenNode = (
