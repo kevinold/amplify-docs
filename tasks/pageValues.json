@@ -1,0 +1,4510 @@
+[
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/devpreview/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "New! Amplify Mobile (Developer Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/devpreview/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "New! Amplify Mobile (Developer Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/prereq/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Prerequisites",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/prereq/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Prerequisites",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/prereq/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Prerequisites",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/create-application/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Create your application",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/create-application/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Create your application",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/create-application/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Create your application",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/null-safety/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Null safety",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/platform-setup/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Platform Setup",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/escape-hatch/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Escape hatch",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/combine/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Using Combine with Amplify",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/async/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Async Programming Model",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/coroutines/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Kotlin Coroutines Support",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/rxjava/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Using RxJava with Amplify",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/use-existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing AWS resources",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/project-setup/use-existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing AWS resources",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/getting-started/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/record/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Record events",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/record/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Record events",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/record/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Record events",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/record/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Record events",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/autotrack/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Automatically track sessions",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/autotrack/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Automatically track sessions",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/autotrack/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Automatically track sessions",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/autotrack/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Automatically track sessions",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/identifyuser/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Identify user",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/identifyuser/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Identify user",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/identifyuser/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Identify user",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/streaming/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Streaming analytics data",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/storing/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Storing analytics data",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/personalize/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Personalized recommendations",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/escapehatch/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Escape hatch",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/escapehatch/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Escape hatch",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing AWS resources",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/existing-resources/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Use existing AWS resources",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/analytics/existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing AWS resources",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/getting-started/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/concepts/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Concepts",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/concepts/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Concepts",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/concepts/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Concepts",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/concepts/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Concepts",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/create-or-re-use-existing-backend/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Create or re-use existing backend",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/authz/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Configure authorization modes",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/authz/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Configure authorization modes",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/authz/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Configure authorization modes",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/authz/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Configure authorization modes",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/mutate-data/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Create, update, delete data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/mutate-data/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Create, update, delete data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/mutate-data/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Create, update, delete data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/mutate-data/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Create, update, delete data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/query-data/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Fetch data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/query-data/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Fetch data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/query-data/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Fetch data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/query-data/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Fetch data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/subscribe-data/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Subscribe to data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/subscribe-data/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Subscribe to data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/subscribe-data/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Subscribe to data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/subscribe-data/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Subscribe to data",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/cancel-request/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Cancel API requests",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/offline/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Offline scenarios",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/graphql-from-nodejs/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "GraphQL from NodeJS",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/advanced-workflows/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Advanced Workflows",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/advanced-workflows/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Advanced Workflows",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/advanced-workflows/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Advanced Workflows",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/advanced-workflows/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Advanced Workflows",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing AWS resources",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/existing-resources/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Use existing AWS resources",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/graphqlapi/existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing AWS resources",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/getting-started/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/fetch/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Fetching data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/fetch/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Fetching data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/fetch/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Fetching data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/fetch/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Fetching data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/update/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Updating data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/update/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Updating data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/update/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Updating data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/update/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Updating data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/delete/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Deleting data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/delete/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Deleting data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/delete/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Deleting data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/delete/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Deleting data",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/cancel/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Cancel API requests",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/authz/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Define authorization rules",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/authz/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Define authorization rules",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/authz/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Define authorization rules",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/authz/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Define authorization rules",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing AWS resources",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing AWS resources",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/restapi/existing-resources/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Use existing AWS resources",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/getting-started/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/start/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Create or re-use existing backend",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/emailpassword/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Sign up, Sign in & Sign out",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/social/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Social sign-in (OAuth)",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/mfa/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Multi-factor authentication",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/manageusers/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Password & user management",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/switch-auth/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Switching authentication flows",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/customui/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Customize UI components",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/advanced/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Advanced workflows",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Sign in",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Sign in",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Sign in",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin_with_custom_flow/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Sign in with custom flow",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin_with_custom_flow/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Sign in with custom flow",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin_web_ui/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Sign in with web UI",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin_web_ui/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Sign in with web UI",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin_web_ui/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Sign in with web UI",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/social/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Social sign-in (OAuth)",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/social/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Social sign-in (OAuth)",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/social/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Social sign-in (OAuth)",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/sms_flows/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "SMS flows",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signin_next_steps/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Sign in next steps",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/guest_access/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Guest access",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/guest_access/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Guest access",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/guest_access/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Guest access",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/auth-events/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Auth events",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/auth-events/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Auth events",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/auth-events/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Auth events",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/auth-events/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Auth events",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/user-attributes/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "User attributes",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/user-attributes/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "User attributes",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/user-attributes/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "User attributes",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/device_features/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Remember a device",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/device_features/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Remember a device",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/device_features/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Remember a device",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/device_features/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Remember a device",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/password_management/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Password management",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/password_management/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Password management",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/password_management/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Password management",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signOut/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Sign out",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signOut/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Sign out",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/signOut/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Sign out",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/access_credentials/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Accessing credentials",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/access_credentials/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Accessing credentials",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/access_credentials/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Accessing credentials",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/managing_credentials/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Managing credentials",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/delete_user/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Delete user",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/delete_user/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Delete user",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/delete_user/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Delete user",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/delete_user/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Delete user",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/escapehatch/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Escape hatch",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/escapehatch/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Escape hatch",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/overview/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Under the hood",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/overview/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Under the hood",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/overview/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Under the hood",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing Amazon Cognito resources",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/existing-resources/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Use existing Amazon Cognito resources",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/auth/existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing Amazon Cognito resources",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/getting-started/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/data-access/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Manipulating data",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/data-access/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Manipulating data",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/data-access/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Manipulating data",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/data-access/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Manipulating data",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/relational/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Relational models",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/relational/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Relational models",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/relational/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Relational models",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/relational/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Relational models",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/sync/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Syncing data to cloud",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/sync/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Syncing data to cloud",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/sync/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Syncing data to cloud",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/sync/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Syncing data to cloud",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/setup-auth-rules/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Setup authorization rules",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/setup-auth-rules/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Setup authorization rules",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/setup-auth-rules/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Setup authorization rules",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/setup-auth-rules/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Setup authorization rules",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/conflict/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Conflict resolution",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/conflict/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Conflict resolution",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/conflict/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Conflict resolution",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/conflict/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Conflict resolution",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/real-time/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Real time",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/real-time/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Real time",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/real-time/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Real time",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/real-time/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Real time",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/datastore-events/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "DataStore Events",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/datastore-events/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "DataStore Events",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/datastore-events/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "DataStore Events",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/datastore-events/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "DataStore Events",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/other-methods/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Other methods",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/other-methods/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Other methods",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/other-methods/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Other methods",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/other-methods/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Other methods",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/schema-updates/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Schema updates",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/schema-updates/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Schema updates",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/schema-updates/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Schema updates",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/schema-updates/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Schema updates",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/how-it-works/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "How it works",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/how-it-works/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "How it works",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/how-it-works/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "How it works",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/how-it-works/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "How it works",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/datastore/examples/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Examples",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/maps/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Maps",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/maps/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Maps",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/maps/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Maps",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/search/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Location Search",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/search/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Location Search",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/search/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Location Search",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/geofences/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Geofences",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/existing-resources/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Use existing Amazon Location resources",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing Amazon Location resources",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing Amazon Location resources",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/google-migration/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Migrating from Google Maps",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/escapehatch/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Escape Hatch",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/escapehatch/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Escape Hatch",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/geo/escapehatch/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Escape Hatch",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/overview/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Overview",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/prerequisites/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Prerequisites",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/create-campaign/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Create an In-App Messaging campaign",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/sync-messages/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Sync messages",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/display-message/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Display message",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/clear-messages/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Clear messages",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/customize/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Customize your UI",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/identify-user/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Identify a user",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/respond-interaction-events/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Respond to interaction events",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/in-app-messaging/resolve-conflicts/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Resolving conflicts",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/interactions/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Interactions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/interactions/chatbot/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Interact with bots",
+    "subcategory": "Interactions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/intro/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Overview",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/text-speech/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Text to speech",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/text-speech/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Text to speech",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/text-speech/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Text to speech",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/transcribe/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Transcribe audio to text",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/transcribe/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Transcribe audio to text",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/translate/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Translate language",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/translate/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Translate language",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/translate/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Translate language",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/identify-text/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Identify text",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/identify-text/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Identify text",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/identify-text/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Identify text",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/identify-entity/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Identify entities from images",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/identify-entity/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Identify entities from images",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/identify-entity/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Identify entities from images",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/label-image/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Label objects in image",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/label-image/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Label objects in image",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/label-image/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Label objects in image",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/interpret/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Interpret sentiment",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/interpret/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Interpret sentiment",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/interpret/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Interpret sentiment",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/escapehatch/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Escape hatch",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/escapehatch/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Escape hatch",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/predictions/sample/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Example",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/pubsub/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "PubSub",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/pubsub/subunsub/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Subscribe & Unsubscribe",
+    "subcategory": "PubSub",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/pubsub/publish/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Publish",
+    "subcategory": "PubSub",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/push-notifications/overview/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Overview",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/push-notifications/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/push-notifications/working-with-api/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Working with API",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/push-notifications/testing/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Testing",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/getting-started/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/overview/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Concepts",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/overview/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Concepts",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/overview/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Concepts",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/overview/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Concepts",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/upload/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Upload files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/upload/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Upload files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/upload/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Upload files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/upload/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Upload files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/download/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Download files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/download/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Download files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/download/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Download files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/download/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Download files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/list/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "List files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/list/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "List files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/list/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "List files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/list/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "List files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/copy/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Copy files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/remove/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Remove files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/remove/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Remove files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/remove/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Remove files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/remove/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Remove files",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/cancel-requests/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Cancel requests",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/configureaccess/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "File access levels",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/configureaccess/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "File access levels",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/configureaccess/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "File access levels",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/configureaccess/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "File access levels",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/autotrack/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Automatically track events",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/triggers/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Lambda triggers",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/triggers/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Lambda triggers",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/triggers/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Lambda triggers",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/triggers/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Lambda triggers",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/escapehatch/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Escape hatch",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/escapehatch/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Escape hatch",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/existing-resources/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Use existing AWS resources",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/existing-resources/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Use existing AWS resources",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/storage/existing-resources/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Use existing AWS resources",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/xr/getting-started/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "subcategory": "XR",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/xr/sceneapi/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Scene API",
+    "subcategory": "XR",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/serviceworker/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Service Worker",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/cache/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Cache",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/hub/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Hub",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/hub/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Hub",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/hub/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Hub",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/i18n/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Internationalization",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/utilities/logger/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Logger",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/client-configuration/configuring-amplify-categories/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Configuring Amplify Categories",
+    "subcategory": "Client configuration",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/debugging/dev-menu/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Developer Menu",
+    "subcategory": "Debugging",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/debugging/dev-menu/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Developer Menu",
+    "subcategory": "Debugging",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/info/overview/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Data Information",
+    "subcategory": "Info",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/info/app-uninstall/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Uninstalling the app",
+    "subcategory": "Info",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/ssr/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Getting Started with Server-Side Rendering (SSR)",
+    "subcategory": "Server-Side Rendering",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/troubleshooting/upgrading/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Upgrading Amplify packages",
+    "subcategory": "Troubleshooting",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/troubleshooting/upgrading/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Upgrading Amplify packages",
+    "subcategory": "Troubleshooting",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/lib/troubleshooting/strict-mode/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "TypeScript strict mode",
+    "subcategory": "Troubleshooting",
+    "category": "Amplify Libraries"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/api/graphql/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "GraphQL - Realtime and Offline",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/api/graphql/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "GraphQL - Realtime and Offline",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/api/rest/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "REST API",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/api/rest/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "REST API",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting Started",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting Started",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/events/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Events",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/events/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Events",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/endpoints/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Endpoints",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/endpoints/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Endpoints",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/kinesis/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Using Amazon Kinesis",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/analytics/kinesis/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Using Amazon Kinesis",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/how-it-works/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Overview",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/how-it-works/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Overview",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/guest-access/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Guest access",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/guest-access/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Guest access",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/drop-in-auth/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Drop-in auth",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/drop-in-auth/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Drop-in auth",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/working-with-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Working with the API",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/working-with-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Working with the API",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/federated-identities/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Federated identities",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/federated-identities/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Federated identities",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/hosted-ui/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Hosted UI",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/hosted-ui/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Hosted UI",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/custom-auth-flow/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Custom auth flow",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/custom-auth-flow/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Custom auth flow",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/device-features/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Device features",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/auth/device-features/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Device features",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/push-notifications/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/push-notifications/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/push-notifications/messaging-campaign/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Messaging campaigns",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/push-notifications/messaging-campaign/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Messaging campaigns",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/push-notifications/setup-push-service/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Setting up push notification services",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/push-notifications/setup-push-service/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Setting up push notification services",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/pubsub/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/pubsub/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/pubsub/working-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Working with the API",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/pubsub/working-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Working with the API",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/getting-started/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/getting-started/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/transfer-utility/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Using TransferUtility",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/transfer-utility/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Using TransferUtility",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/graphql-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Using GraphQL API",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/graphql-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Using GraphQL API",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/configure-access/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Configure Access",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/storage/configure-access/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Configure Access",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/configuration/setup-options/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "SDK Setup Options",
+    "subcategory": "Configuration",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/configuration/setup-options/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "SDK Setup Options",
+    "subcategory": "Configuration",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/sdk/info/app-uninstall/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Uninstalling the app",
+    "subcategory": "Info",
+    "category": "AWS Mobile SDK"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/api/connect/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Connect",
+    "subcategory": "API",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/auth/authenticator/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Authenticator",
+    "subcategory": "Authentication",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/auth/authenticator/q/framework/[framework].mdx",
+    "platform": "flutter",
+    "title": "Authenticator",
+    "subcategory": "Authentication",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/interactions/chatbot/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Chatbot",
+    "subcategory": "Interactions",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/storage/s3-album/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "S3 Album",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/storage/s3-image/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "S3 Image",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/storage/tracking-events/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Tracking Events",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/storage/customization/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Customization",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/customization/theming/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Theming",
+    "subcategory": "Customization",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/customization/customizing-css/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Customizing CSS",
+    "subcategory": "Customization",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/ui/customization/translations/q/framework/[framework].mdx",
+    "platform": "react-native",
+    "title": "Translations",
+    "subcategory": "Customization",
+    "category": "Amplify UI Components"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/start/install.mdx",
+    "platform": "",
+    "title": "Installation",
+    "subcategory": "Get started",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/start/workflows.mdx",
+    "platform": "",
+    "title": "Typical workflows",
+    "subcategory": "Get started",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/overview.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/data-modeling.mdx",
+    "platform": "",
+    "title": "Data modeling",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/authorization-rules.mdx",
+    "platform": "",
+    "title": "Authorization rules",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/custom-business-logic.mdx",
+    "platform": "",
+    "title": "Custom business logic (Lambda function, HTTP, VTL resolvers)",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/search-and-result-aggregations.mdx",
+    "platform": "",
+    "title": "Search and result aggregations",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/connect-to-machine-learning-services.mdx",
+    "platform": "",
+    "title": "Connect to machine learning services",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/schema-evolution.mdx",
+    "platform": "",
+    "title": "Evolving GraphQL schemas",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/client-code-generation.mdx",
+    "platform": "",
+    "title": "JavaScript, Java, Swift code generation",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/override.mdx",
+    "platform": "",
+    "title": "Override Amplify-generated AppSync resources",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/troubleshooting.mdx",
+    "platform": "",
+    "title": "Troubleshooting",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/graphql/examples-and-solutions.mdx",
+    "platform": "",
+    "title": "Examples and solutions",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/restapi/restapi.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "API (REST)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/restapi/testing.mdx",
+    "platform": "",
+    "title": "Test",
+    "subcategory": "API (REST)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/restapi/override.mdx",
+    "platform": "",
+    "title": "Override Amplify-generated API Gateway resources",
+    "subcategory": "API (REST)",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/auth/overview.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/auth/groups.mdx",
+    "platform": "",
+    "title": "User groups",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/auth/admin.mdx",
+    "platform": "",
+    "title": "Admin actions",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/auth/import.mdx",
+    "platform": "",
+    "title": "Use an existing Cognito User Pool and Identity Pool",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/auth/override.mdx",
+    "platform": "",
+    "title": "Override Amplify-generated Cognito resources",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/storage/overview.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "Storage",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/storage/import.mdx",
+    "platform": "",
+    "title": "Use an existing S3 bucket or DynamoDB table",
+    "subcategory": "Storage",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/storage/override.mdx",
+    "platform": "",
+    "title": "Override Amplify-generated S3 and DynamoDB resources",
+    "subcategory": "Storage",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/function/layers.mdx",
+    "platform": "",
+    "title": "Reuse code & assets using layers",
+    "subcategory": "Functions",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/function/env-vars.mdx",
+    "platform": "",
+    "title": "Environment variables",
+    "subcategory": "Functions",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/function/secrets.mdx",
+    "platform": "",
+    "title": "Access secret values",
+    "subcategory": "Functions",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/function/build-options.mdx",
+    "platform": "",
+    "title": "Build options",
+    "subcategory": "Functions",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/geo/maps.mdx",
+    "platform": "",
+    "title": "Maps",
+    "subcategory": "Geo",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/geo/search.mdx",
+    "platform": "",
+    "title": "Location Search",
+    "subcategory": "Geo",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/geo/geofencing.mdx",
+    "platform": "",
+    "title": "Geofencing",
+    "subcategory": "Geo",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/hosting/hosting.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "Hosting",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/custom/cdk.mdx",
+    "platform": "",
+    "title": "Use CDK to add custom AWS resources",
+    "subcategory": "Custom AWS resources",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/custom/cloudformation.mdx",
+    "platform": "",
+    "title": "Use CloudFormation to add custom AWS resources",
+    "subcategory": "Custom AWS resources",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/project/tags.mdx",
+    "platform": "",
+    "title": "Apply tags to generated resources",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/project/permissions-boundary.mdx",
+    "platform": "",
+    "title": "IAM Permissions Boundary for Amplify-generated roles",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/project/command-hooks.mdx",
+    "platform": "",
+    "title": "Command Hooks",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/project/monorepo.mdx",
+    "platform": "",
+    "title": "Monorepo project structure",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/project/override.mdx",
+    "platform": "",
+    "title": "Override Amplify-generated project-level IAM resources",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/project/troubleshooting.mdx",
+    "platform": "",
+    "title": "Troubleshooting",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/teams/overview.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/teams/shared.mdx",
+    "platform": "",
+    "title": "Share single environment",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/teams/sandbox.mdx",
+    "platform": "",
+    "title": "Sandbox environments",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/teams/multi-frontend.mdx",
+    "platform": "",
+    "title": "Multiple frontends",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/teams/cicd.mdx",
+    "platform": "",
+    "title": "Continuous deployment",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/teams/commands.mdx",
+    "platform": "",
+    "title": "Commands",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/usage/lambda-triggers.mdx",
+    "platform": "",
+    "title": "Lambda Triggers",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/usage/mock.mdx",
+    "platform": "",
+    "title": "Mocking and testing",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/usage/containers.mdx",
+    "platform": "",
+    "title": "Serverless containers",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/usage/export-to-cdk.mdx",
+    "platform": "",
+    "title": "Export Amplify project to CDK",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/usage/headless.mdx",
+    "platform": "",
+    "title": "Headless mode for CI/CD",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/plugins/plugins.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "Plugins",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/plugins/architecture.mdx",
+    "platform": "",
+    "title": "Architecture",
+    "subcategory": "Plugins",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/plugins/authoring.mdx",
+    "platform": "",
+    "title": "Authoring a new plugin",
+    "subcategory": "Plugins",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/transformer-migration.mdx",
+    "platform": "",
+    "title": "GraphQL Transformer v1 to v2 migration",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/override.mdx",
+    "platform": "",
+    "title": "Override feature enablement migration",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/lambda-node-version-update.mdx",
+    "platform": "",
+    "title": "Node Version Update",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/lambda-layers-update.mdx",
+    "platform": "",
+    "title": "Lambda layer behavior updates",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/cli-auth-signup-changes.mdx",
+    "platform": "",
+    "title": "CLI Auth Signup Changes",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/list-nullability.mdx",
+    "platform": "",
+    "title": "Amplify Codegen Models - List and list components nullability",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/cli-migrate-aws-account.mdx",
+    "platform": "",
+    "title": "Migrate project to another AWS account",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/migration/identity-claim-changes.mdx",
+    "platform": "",
+    "title": "GraphQL Transformer @auth identity claim changes",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/reference/iam.mdx",
+    "platform": "",
+    "title": "IAM Policy",
+    "subcategory": "Reference",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/reference/iam-roles-mfa.mdx",
+    "platform": "",
+    "title": "IAM Roles & MFA",
+    "subcategory": "Reference",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/reference/files.mdx",
+    "platform": "",
+    "title": "Files and Folders",
+    "subcategory": "Reference",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/reference/usage-data.mdx",
+    "platform": "",
+    "title": "Usage Data in Amplify CLI",
+    "subcategory": "Reference",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/reference/diagnose.mdx",
+    "platform": "",
+    "title": "Diagnose",
+    "subcategory": "Reference",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli/reference/feature-flags.mdx",
+    "platform": "",
+    "title": "Feature Flags",
+    "subcategory": "Reference",
+    "category": "Amplify CLI"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/overview.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/directives.mdx",
+    "platform": "",
+    "title": "Directives",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/model.mdx",
+    "platform": "",
+    "title": "Define your model types",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/key.mdx",
+    "platform": "",
+    "title": "Index your data with keys",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/auth.mdx",
+    "platform": "",
+    "title": "Setup authorization rules",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/connection.mdx",
+    "platform": "",
+    "title": "Add relationships between types",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/function.mdx",
+    "platform": "",
+    "title": "Configure Lambda resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/http.mdx",
+    "platform": "",
+    "title": "Configure HTTP resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/predictions.mdx",
+    "platform": "",
+    "title": "Connect machine learning services",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/searchable.mdx",
+    "platform": "",
+    "title": "Make your data searchable",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/versioned.mdx",
+    "platform": "",
+    "title": "Versioning and conflict resolution",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/dataaccess.mdx",
+    "platform": "",
+    "title": "Data access patterns",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/storage.mdx",
+    "platform": "",
+    "title": "GraphQL transform and Storage",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/relational.mdx",
+    "platform": "",
+    "title": "Relational Databases",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/codegen.mdx",
+    "platform": "",
+    "title": "Client code generation",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/resolvers.mdx",
+    "platform": "",
+    "title": "Overwrite & customize resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/config-params.mdx",
+    "platform": "",
+    "title": "Configurable Parameters",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/cli-legacy/graphql-transformer/examples.mdx",
+    "platform": "",
+    "title": "Examples",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "js",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "next",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Getting started",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "js",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "next",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/installation/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Prerequisites",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "js",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "next",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/setup/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Set up fullstack project",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/generate-model/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Generate model files",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/generate-model/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Generate model files",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/generate-model/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Generate model files",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/generate-model/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Generate model files",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/integrate/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Integrate your app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/integrate/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Integrate your app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/integrate/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Integrate your app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/integrate/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Integrate your app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/add-api/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Connect to the cloud",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/add-api/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Connect to the cloud",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/add-api/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Connect to the cloud",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/add-api/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Connect to the cloud",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/data-model/q/integration/[integration].mdx",
+    "platform": "js",
+    "title": "Connect API and database to the app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/data-model/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Connect API and database to the app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/data-model/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Connect API and database to the app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/data-model/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Connect API and database to the app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/data-model/q/integration/[integration].mdx",
+    "platform": "next",
+    "title": "Connect API and database to the app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/data-model/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Connect API and database to the app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/auth/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Add authentication",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/auth/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Add authentication",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/auth/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Add authentication",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/auth/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Add authentication",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/hosting/q/integration/[integration].mdx",
+    "platform": "js",
+    "title": "Deploy and host app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/hosting/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Deploy and host app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/hosting/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Deploy and host app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/hosting/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Deploy and host app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/hosting/q/integration/[integration].mdx",
+    "platform": "next",
+    "title": "Deploy and host app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/hosting/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Deploy and host app",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "js",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "react",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "react-native",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "angular",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "vue",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "next",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "ios",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "ionic",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/getting-started/nextsteps/q/integration/[integration].mdx",
+    "platform": "flutter",
+    "title": "Next steps",
+    "subcategory": "Tutorial",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/start/sample-apps/todo-app/q/integration/[integration].mdx",
+    "platform": "android",
+    "title": "ToDo App",
+    "subcategory": "Sample Apps",
+    "category": "Getting started"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/adminui/start.mdx",
+    "platform": "",
+    "title": "Getting started",
+    "subcategory": "Basics",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/adminui/extend-cli.mdx",
+    "platform": "",
+    "title": "Extend with the Amplify CLI",
+    "subcategory": "Basics",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/adminui/access-management.mdx",
+    "platform": "",
+    "title": "Manage team access",
+    "subcategory": "Basics",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/adminui/custom-domain.mdx",
+    "platform": "",
+    "title": "Custom domains",
+    "subcategory": "Basics",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/tutorial/buildui.mdx",
+    "platform": "",
+    "title": "Build UI",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/tutorial/data.mdx",
+    "platform": "",
+    "title": "Model database",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/tutorial/bindui.mdx",
+    "platform": "",
+    "title": "Bind UI to data",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/tutorial/collections.mdx",
+    "platform": "",
+    "title": "Collections",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/tutorial/code.mdx",
+    "platform": "",
+    "title": "Write React code",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/figmatocode.mdx",
+    "platform": "",
+    "title": "Figma to code",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/databinding.mdx",
+    "platform": "",
+    "title": "Data binding",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/eventhandling.mdx",
+    "platform": "",
+    "title": "UI event handler",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/collections.mdx",
+    "platform": "",
+    "title": "Collections",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/slots.mdx",
+    "platform": "",
+    "title": "Component slots",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/theming.mdx",
+    "platform": "",
+    "title": "Theming",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/responsive.mdx",
+    "platform": "",
+    "title": "Responsive components",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/override.mdx",
+    "platform": "",
+    "title": "Extend with code",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/uibuilder/bestpractices.mdx",
+    "platform": "",
+    "title": "Figma-to-Code best practices",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/data/data-model.mdx",
+    "platform": "",
+    "title": "Data modeling",
+    "subcategory": "Data",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/data/relationships.mdx",
+    "platform": "",
+    "title": "Relationships",
+    "subcategory": "Data",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/data/content-management.mdx",
+    "platform": "",
+    "title": "Content management",
+    "subcategory": "Data",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/auth/authentication.mdx",
+    "platform": "",
+    "title": "Authentication",
+    "subcategory": "Authentication",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/auth/user-management.mdx",
+    "platform": "",
+    "title": "Manage authentication for users and groups",
+    "subcategory": "Authentication",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/auth/import.mdx",
+    "platform": "",
+    "title": "Import Amazon Cognito resources",
+    "subcategory": "Authentication",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/authz/authorization.mdx",
+    "platform": "",
+    "title": "Overview",
+    "subcategory": "Authorization",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/authz/permissions.mdx",
+    "platform": "",
+    "title": "Access control",
+    "subcategory": "Authorization",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/storage/file-browser.mdx",
+    "platform": "",
+    "title": "File browser",
+    "subcategory": "Storage",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/console/storage/file-storage.mdx",
+    "platform": "",
+    "title": "File storage",
+    "subcategory": "Storage",
+    "category": "Amplify Studio"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Guides",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Guides",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Guides",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "Guides",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/image-and-file-uploads/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "How to Manage Image & File Uploads & Downloads",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/building-a-form-api/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Building a Form API with GraphQL",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/building-a-form-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Building a Form API with GraphQL",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/building-a-form-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Building a Form API with GraphQL",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/subscriptions-by-id/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "How to create GraphQL subscriptions by id",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/subscriptions-by-id/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "How to create GraphQL subscriptions by id",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/subscriptions-by-id/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "How to create GraphQL subscriptions by id",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/subscriptions-by-id/q/platform/[platform].mdx",
+    "platform": "flutter",
+    "title": "How to create GraphQL subscriptions by id",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/graphql-pagination/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "GraphQL pagination",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/graphql-pagination/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "GraphQL pagination",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/graphql-pagination/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "GraphQL pagination",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/query-with-sorting/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "GraphQL query with sorting by date",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/query-with-sorting/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "GraphQL query with sorting by date",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/query-with-sorting/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "GraphQL query with sorting by date",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/lambda-resolvers/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "How to use Lambda GraphQL Resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/lambda-resolvers/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "How to use Lambda GraphQL Resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-graphql/lambda-resolvers/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "How to use Lambda GraphQL Resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/node-api/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "NodeJS API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/node-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "NodeJS API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/node-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "NodeJS API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/express-server/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Express Server",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/express-server/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Express Server",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/express-server/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Express Server",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/go-api/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Go API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/go-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Go API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/go-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Go API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/python-api/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Python API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/python-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Python API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/api-rest/python-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Python API",
+    "subcategory": "API (REST)",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/authentication/custom-auth-flow/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Creating a custom authentication flow",
+    "subcategory": "Authentication",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/authentication/email-only-authentication/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Email-only sign up and sign in",
+    "subcategory": "Authentication",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/authentication/listening-for-auth-events/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Listening for authentication events",
+    "subcategory": "Authentication",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/authentication/managing-user-attributes/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Managing user attributes",
+    "subcategory": "Authentication",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/datastore/parallel-processing/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Parallel Processing",
+    "subcategory": "Datastore",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/appsync-operations-to-lambda-layer/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Exporting AppSync operations to a Lambda layer for easy reuse",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/appsync-operations-to-lambda-layer/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Exporting AppSync operations to a Lambda layer for easy reuse",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/appsync-operations-to-lambda-layer/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Exporting AppSync operations to a Lambda layer for easy reuse",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/connecting-a-rest-api/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Connecting a REST API to a Lambda function",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/connecting-a-rest-api/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Connecting a REST API to a Lambda function",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/connecting-a-rest-api/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Connecting a REST API to a Lambda function",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/integrating-dynamodb-with-lambda/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Integrating DynamoDB with Lambda",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/integrating-dynamodb-with-lambda/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Integrating DynamoDB with Lambda",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/integrating-dynamodb-with-lambda/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Integrating DynamoDB with Lambda",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/dynamodb-from-js-lambda/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Calling DynamoDB from Lambda in Node.js",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/dynamodb-from-js-lambda/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Calling DynamoDB from Lambda in Node.js",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/dynamodb-from-js-lambda/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Calling DynamoDB from Lambda in Node.js",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/dynamodb-from-python-lambda/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Calling DynamoDB from a Lambda function in Python",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/dynamodb-from-python-lambda/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Calling DynamoDB from a Lambda function in Python",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/dynamodb-from-python-lambda/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Calling DynamoDB from a Lambda function in Python",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/graphql-from-lambda/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Calling GraphQL API from a Lambda function",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/graphql-from-lambda/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Calling GraphQL API from a Lambda function",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/graphql-from-lambda/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Calling GraphQL API from a Lambda function",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/graphql-server-in-lambda/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "GraphQL Server in Lambda",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/graphql-server-in-lambda/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "GraphQL Server in Lambda",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/graphql-server-in-lambda/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "GraphQL Server in Lambda",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Calling DynamoDB using AWS Cognito triggers",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Calling DynamoDB using AWS Cognito triggers",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Calling DynamoDB using AWS Cognito triggers",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/configuring-lambda/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Configuring Lambda function settings",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/configuring-lambda/q/platform/[platform].mdx",
+    "platform": "android",
+    "title": "Configuring Lambda function settings",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/functions/configuring-lambda/q/platform/[platform].mdx",
+    "platform": "ios",
+    "title": "Configuring Lambda function settings",
+    "subcategory": "Functions",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/git-based-deployments/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Git-based deployments",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/local-deployments/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Local deployments",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/custom-domains/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Custom Domains",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/password-protected-deployments/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Password protected deployments",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/pull-request-previews/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Pull-request previews",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/gatsby/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Gatsby",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/nextjs/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Next.js",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/gridsome/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Gridsome",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  },
+  {
+    "filename": "/Users/kevold/github-clones/amplify-docs/src/pages/guides/hosting/nuxt/q/platform/[platform].mdx",
+    "platform": "js",
+    "title": "Nuxt.js",
+    "subcategory": "Hosting",
+    "category": "Guides"
+  }
+]

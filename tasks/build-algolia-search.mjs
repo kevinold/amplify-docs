@@ -1,14 +1,14 @@
-import fs from 'fs';
-import { fileURLToPath } from 'url';
-import path, { dirname } from 'path';
-import dotenv from 'dotenv';
+import { compile } from '@mdx-js/mdx';
 import algoliasearch from 'algoliasearch/lite.js';
-import directory from '../src/directory/directory.js';
-import parseImports from 'parse-imports';
+import dotenv from 'dotenv';
 import extractMdxMeta from 'extract-mdx-metadata';
+import fs from 'fs';
+import parseImports from 'parse-imports';
+import path from 'path';
 import { remark } from 'remark';
 import mdx from 'remark-mdx';
-import { compile } from '@mdx-js/mdx';
+import { fileURLToPath } from 'url';
+import directory from '../src/directory/directory.js';
 
 import { visit } from 'unist-util-visit';
 
@@ -46,10 +46,14 @@ const platformMap = {
 };
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = path.dirname(__filename);
 
 const articles = [];
 const pathmap = generatePathMap(directory);
+fs.writeFileSync(
+  path.join(__dirname, 'pathmap.json'),
+  JSON.stringify(pathmap, null, 2)
+);
 
 const allFilters = [
   'js',
@@ -67,7 +71,9 @@ const allFilters = [
 const pagesToSkip = ['/', '/ChooseFilterPage', '/404'];
 const pagesWithIndex = ['/cli/function', '/cli', '/console'];
 
-const searchIndex = process.env.NEXT_PUBLIC_ALGOLIA_INDEX ? process.env.NEXT_PUBLIC_ALGOLIA_INDEX : 'custom_search_staging';
+const searchIndex = process.env.NEXT_PUBLIC_ALGOLIA_INDEX
+  ? process.env.NEXT_PUBLIC_ALGOLIA_INDEX
+  : 'custom_search_staging';
 const searchIndexTemp = `${searchIndex}_temp`;
 
 const pageValues = [];
@@ -88,25 +94,35 @@ Object.keys(pathmap).forEach(async (key) => {
   if (page.includes('[')) {
     platform = key.split('/').pop();
   }
+  //console.log('page: ', page, 'platform: ', platform);
   pageValues.push({ filename, platform, title, subcategory, category });
 });
+
+fs.writeFileSync(
+  path.join(__dirname, 'pageValues.json'),
+  JSON.stringify(pageValues, null, 2)
+);
 
 try {
   dotenv.config();
 
-  if (!process.env.PUBLIC_ALGOLIA_APP_ID) {
-    throw new Error('PUBLIC_ALGOLIA_APP_ID is not defined');
-  }
+  // if (!process.env.PUBLIC_ALGOLIA_APP_ID) {
+  //   throw new Error('PUBLIC_ALGOLIA_APP_ID is not defined');
+  // }
 
-  if (!process.env.ALGOLIA_SEARCH_ADMIN_KEY) {
-    throw new Error('ALGOLIA_SEARCH_ADMIN_KEY is not defined');
-  }
+  // if (!process.env.ALGOLIA_SEARCH_ADMIN_KEY) {
+  //   throw new Error('ALGOLIA_SEARCH_ADMIN_KEY is not defined');
+  // }
 
   console.log('Compiling index...');
 
-  readPages(async function() {
+  readPages(function() {
     try {
       const transformed = transformPostsToSearchObjects(articles);
+      fs.writeFileSync(
+        path.join(__dirname, 'transformed.json'),
+        JSON.stringify(transformed, null, 2)
+      );
       const client = algoliasearch(
         process.env.PUBLIC_ALGOLIA_APP_ID,
         process.env.ALGOLIA_SEARCH_ADMIN_KEY
@@ -125,19 +141,19 @@ try {
           'unordered(subcategory)'
         ],
         attributesToSnippet: [
-          'text:10', // limits the size of the snippet
+          'text:10' // limits the size of the snippet
         ]
       };
 
-      const index = client.initIndex(searchIndexTemp);
-      await index.setSettings(settings);
+      // const index = client.initIndex(searchIndexTemp);
+      // await index.setSettings(settings);
 
-      const algoliaResponse = await index.saveObjects(transformed);
-      await client.moveIndex(searchIndexTemp, searchIndex);
-      console.log(
-        `Successfully added ${algoliaResponse.objectIDs.length} records to Algolia search!`
-      );
-      await index.delete();
+      // const algoliaResponse = await index.saveObjects(transformed);
+      // await client.moveIndex(searchIndexTemp, searchIndex);
+      // console.log(
+      //   `Successfully added ${algoliaResponse.objectIDs.length} records to Algolia search!`
+      // );
+      // await index.delete();
     } catch (error) {
       console.error(error);
     }
@@ -195,6 +211,10 @@ async function tryParseImports(
         });
       }
     });
+    fs.writeFileSync(
+      path.join(__dirname, 'fragments.json'),
+      JSON.stringify(fragments, null, 2)
+    );
 
     // derive URL path
     filename = filename.split('[');
@@ -244,6 +264,11 @@ async function tryParseImports(
     const searchableText = result.data;
 
     articles.push({ searchableText, source, meta, filename });
+    fs.writeFileSync(
+      path.join(__dirname, 'articles.json'),
+      JSON.stringify(articles, null, 2)
+    );
+
     readPages(cb);
   } catch (e) {
     console.log('Pages remaing:', pageValues.length);
@@ -412,6 +437,6 @@ function generatePathMap(obj, pathMap = {}, subcategory) {
       };
     });
   }
-  console.log(pathMap);
+  //console.log(pathMap);
   return pathMap;
 }

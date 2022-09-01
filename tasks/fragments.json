@@ -1,0 +1,8 @@
+{
+  "ios": [
+    "/src/fragments/lib/devpreview/native_common/getting_started/common.mdx"
+  ],
+  "android": [
+    "/src/fragments/lib/devpreview/native_common/getting_started/common.mdx"
+  ]
+}

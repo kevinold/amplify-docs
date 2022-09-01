@@ -1,0 +1,3864 @@
+{
+  "/lib/devpreview/getting-started/q/platform/ios": {
+    "page": "/lib/devpreview/getting-started/q/platform/[platform]",
+    "subcategory": "New! Amplify Mobile (Developer Preview)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/devpreview/getting-started/q/platform/android": {
+    "page": "/lib/devpreview/getting-started/q/platform/[platform]",
+    "subcategory": "New! Amplify Mobile (Developer Preview)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/project-setup/prereq/q/platform/android": {
+    "page": "/lib/project-setup/prereq/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Prerequisites"
+  },
+  "/lib/project-setup/prereq/q/platform/ios": {
+    "page": "/lib/project-setup/prereq/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Prerequisites"
+  },
+  "/lib/project-setup/prereq/q/platform/flutter": {
+    "page": "/lib/project-setup/prereq/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Prerequisites"
+  },
+  "/lib/project-setup/create-application/q/platform/android": {
+    "page": "/lib/project-setup/create-application/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Create your application"
+  },
+  "/lib/project-setup/create-application/q/platform/ios": {
+    "page": "/lib/project-setup/create-application/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Create your application"
+  },
+  "/lib/project-setup/create-application/q/platform/flutter": {
+    "page": "/lib/project-setup/create-application/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Create your application"
+  },
+  "/lib/project-setup/null-safety/q/platform/flutter": {
+    "page": "/lib/project-setup/null-safety/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Null safety"
+  },
+  "/lib/project-setup/platform-setup/q/platform/flutter": {
+    "page": "/lib/project-setup/platform-setup/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Platform Setup"
+  },
+  "/lib/project-setup/escape-hatch/q/platform/flutter": {
+    "page": "/lib/project-setup/escape-hatch/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/project-setup/combine/q/platform/ios": {
+    "page": "/lib/project-setup/combine/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Using Combine with Amplify"
+  },
+  "/lib/project-setup/async/q/platform/android": {
+    "page": "/lib/project-setup/async/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Async Programming Model"
+  },
+  "/lib/project-setup/coroutines/q/platform/android": {
+    "page": "/lib/project-setup/coroutines/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Kotlin Coroutines Support"
+  },
+  "/lib/project-setup/rxjava/q/platform/android": {
+    "page": "/lib/project-setup/rxjava/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Using RxJava with Amplify"
+  },
+  "/lib/project-setup/use-existing-resources/q/platform/android": {
+    "page": "/lib/project-setup/use-existing-resources/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/project-setup/use-existing-resources/q/platform/ios": {
+    "page": "/lib/project-setup/use-existing-resources/q/platform/[platform]",
+    "subcategory": "Project Setup",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/analytics/getting-started/q/platform/android": {
+    "page": "/lib/analytics/getting-started/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/analytics/getting-started/q/platform/flutter": {
+    "page": "/lib/analytics/getting-started/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/analytics/getting-started/q/platform/ios": {
+    "page": "/lib/analytics/getting-started/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/analytics/getting-started/q/platform/js": {
+    "page": "/lib/analytics/getting-started/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/analytics/record/q/platform/android": {
+    "page": "/lib/analytics/record/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Record events"
+  },
+  "/lib/analytics/record/q/platform/flutter": {
+    "page": "/lib/analytics/record/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Record events"
+  },
+  "/lib/analytics/record/q/platform/ios": {
+    "page": "/lib/analytics/record/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Record events"
+  },
+  "/lib/analytics/record/q/platform/js": {
+    "page": "/lib/analytics/record/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Record events"
+  },
+  "/lib/analytics/autotrack/q/platform/android": {
+    "page": "/lib/analytics/autotrack/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Automatically track sessions"
+  },
+  "/lib/analytics/autotrack/q/platform/flutter": {
+    "page": "/lib/analytics/autotrack/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Automatically track sessions"
+  },
+  "/lib/analytics/autotrack/q/platform/ios": {
+    "page": "/lib/analytics/autotrack/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Automatically track sessions"
+  },
+  "/lib/analytics/autotrack/q/platform/js": {
+    "page": "/lib/analytics/autotrack/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Automatically track sessions"
+  },
+  "/lib/analytics/identifyuser/q/platform/android": {
+    "page": "/lib/analytics/identifyuser/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Identify user"
+  },
+  "/lib/analytics/identifyuser/q/platform/flutter": {
+    "page": "/lib/analytics/identifyuser/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Identify user"
+  },
+  "/lib/analytics/identifyuser/q/platform/ios": {
+    "page": "/lib/analytics/identifyuser/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Identify user"
+  },
+  "/lib/analytics/streaming/q/platform/js": {
+    "page": "/lib/analytics/streaming/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Streaming analytics data"
+  },
+  "/lib/analytics/storing/q/platform/js": {
+    "page": "/lib/analytics/storing/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Storing analytics data"
+  },
+  "/lib/analytics/personalize/q/platform/js": {
+    "page": "/lib/analytics/personalize/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Personalized recommendations"
+  },
+  "/lib/analytics/escapehatch/q/platform/android": {
+    "page": "/lib/analytics/escapehatch/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/analytics/escapehatch/q/platform/ios": {
+    "page": "/lib/analytics/escapehatch/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/analytics/existing-resources/q/platform/android": {
+    "page": "/lib/analytics/existing-resources/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/analytics/existing-resources/q/platform/flutter": {
+    "page": "/lib/analytics/existing-resources/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/analytics/existing-resources/q/platform/ios": {
+    "page": "/lib/analytics/existing-resources/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/graphqlapi/getting-started/q/platform/android": {
+    "page": "/lib/graphqlapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/graphqlapi/getting-started/q/platform/flutter": {
+    "page": "/lib/graphqlapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/graphqlapi/getting-started/q/platform/ios": {
+    "page": "/lib/graphqlapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/graphqlapi/getting-started/q/platform/js": {
+    "page": "/lib/graphqlapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/graphqlapi/concepts/q/platform/android": {
+    "page": "/lib/graphqlapi/concepts/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/graphqlapi/concepts/q/platform/flutter": {
+    "page": "/lib/graphqlapi/concepts/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/graphqlapi/concepts/q/platform/ios": {
+    "page": "/lib/graphqlapi/concepts/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/graphqlapi/concepts/q/platform/js": {
+    "page": "/lib/graphqlapi/concepts/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/graphqlapi/create-or-re-use-existing-backend/q/platform/js": {
+    "page": "/lib/graphqlapi/create-or-re-use-existing-backend/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Create or re-use existing backend"
+  },
+  "/lib/graphqlapi/authz/q/platform/android": {
+    "page": "/lib/graphqlapi/authz/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Configure authorization modes"
+  },
+  "/lib/graphqlapi/authz/q/platform/flutter": {
+    "page": "/lib/graphqlapi/authz/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Configure authorization modes"
+  },
+  "/lib/graphqlapi/authz/q/platform/ios": {
+    "page": "/lib/graphqlapi/authz/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Configure authorization modes"
+  },
+  "/lib/graphqlapi/authz/q/platform/js": {
+    "page": "/lib/graphqlapi/authz/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Configure authorization modes"
+  },
+  "/lib/graphqlapi/mutate-data/q/platform/android": {
+    "page": "/lib/graphqlapi/mutate-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Create, update, delete data"
+  },
+  "/lib/graphqlapi/mutate-data/q/platform/flutter": {
+    "page": "/lib/graphqlapi/mutate-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Create, update, delete data"
+  },
+  "/lib/graphqlapi/mutate-data/q/platform/ios": {
+    "page": "/lib/graphqlapi/mutate-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Create, update, delete data"
+  },
+  "/lib/graphqlapi/mutate-data/q/platform/js": {
+    "page": "/lib/graphqlapi/mutate-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Create, update, delete data"
+  },
+  "/lib/graphqlapi/query-data/q/platform/android": {
+    "page": "/lib/graphqlapi/query-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Fetch data"
+  },
+  "/lib/graphqlapi/query-data/q/platform/flutter": {
+    "page": "/lib/graphqlapi/query-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Fetch data"
+  },
+  "/lib/graphqlapi/query-data/q/platform/ios": {
+    "page": "/lib/graphqlapi/query-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Fetch data"
+  },
+  "/lib/graphqlapi/query-data/q/platform/js": {
+    "page": "/lib/graphqlapi/query-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Fetch data"
+  },
+  "/lib/graphqlapi/subscribe-data/q/platform/android": {
+    "page": "/lib/graphqlapi/subscribe-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Subscribe to data"
+  },
+  "/lib/graphqlapi/subscribe-data/q/platform/flutter": {
+    "page": "/lib/graphqlapi/subscribe-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Subscribe to data"
+  },
+  "/lib/graphqlapi/subscribe-data/q/platform/ios": {
+    "page": "/lib/graphqlapi/subscribe-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Subscribe to data"
+  },
+  "/lib/graphqlapi/subscribe-data/q/platform/js": {
+    "page": "/lib/graphqlapi/subscribe-data/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Subscribe to data"
+  },
+  "/lib/graphqlapi/cancel-request/q/platform/js": {
+    "page": "/lib/graphqlapi/cancel-request/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Cancel API requests"
+  },
+  "/lib/graphqlapi/offline/q/platform/js": {
+    "page": "/lib/graphqlapi/offline/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Offline scenarios"
+  },
+  "/lib/graphqlapi/graphql-from-nodejs/q/platform/js": {
+    "page": "/lib/graphqlapi/graphql-from-nodejs/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "GraphQL from NodeJS"
+  },
+  "/lib/graphqlapi/advanced-workflows/q/platform/android": {
+    "page": "/lib/graphqlapi/advanced-workflows/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Advanced Workflows"
+  },
+  "/lib/graphqlapi/advanced-workflows/q/platform/flutter": {
+    "page": "/lib/graphqlapi/advanced-workflows/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Advanced Workflows"
+  },
+  "/lib/graphqlapi/advanced-workflows/q/platform/ios": {
+    "page": "/lib/graphqlapi/advanced-workflows/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Advanced Workflows"
+  },
+  "/lib/graphqlapi/advanced-workflows/q/platform/js": {
+    "page": "/lib/graphqlapi/advanced-workflows/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Advanced Workflows"
+  },
+  "/lib/graphqlapi/existing-resources/q/platform/android": {
+    "page": "/lib/graphqlapi/existing-resources/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/graphqlapi/existing-resources/q/platform/flutter": {
+    "page": "/lib/graphqlapi/existing-resources/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/graphqlapi/existing-resources/q/platform/ios": {
+    "page": "/lib/graphqlapi/existing-resources/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/restapi/getting-started/q/platform/android": {
+    "page": "/lib/restapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/restapi/getting-started/q/platform/ios": {
+    "page": "/lib/restapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/restapi/getting-started/q/platform/flutter": {
+    "page": "/lib/restapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/restapi/getting-started/q/platform/js": {
+    "page": "/lib/restapi/getting-started/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/restapi/fetch/q/platform/android": {
+    "page": "/lib/restapi/fetch/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Fetching data"
+  },
+  "/lib/restapi/fetch/q/platform/ios": {
+    "page": "/lib/restapi/fetch/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Fetching data"
+  },
+  "/lib/restapi/fetch/q/platform/flutter": {
+    "page": "/lib/restapi/fetch/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Fetching data"
+  },
+  "/lib/restapi/fetch/q/platform/js": {
+    "page": "/lib/restapi/fetch/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Fetching data"
+  },
+  "/lib/restapi/update/q/platform/android": {
+    "page": "/lib/restapi/update/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Updating data"
+  },
+  "/lib/restapi/update/q/platform/ios": {
+    "page": "/lib/restapi/update/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Updating data"
+  },
+  "/lib/restapi/update/q/platform/flutter": {
+    "page": "/lib/restapi/update/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Updating data"
+  },
+  "/lib/restapi/update/q/platform/js": {
+    "page": "/lib/restapi/update/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Updating data"
+  },
+  "/lib/restapi/delete/q/platform/android": {
+    "page": "/lib/restapi/delete/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Deleting data"
+  },
+  "/lib/restapi/delete/q/platform/ios": {
+    "page": "/lib/restapi/delete/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Deleting data"
+  },
+  "/lib/restapi/delete/q/platform/flutter": {
+    "page": "/lib/restapi/delete/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Deleting data"
+  },
+  "/lib/restapi/delete/q/platform/js": {
+    "page": "/lib/restapi/delete/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Deleting data"
+  },
+  "/lib/restapi/cancel/q/platform/js": {
+    "page": "/lib/restapi/cancel/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Cancel API requests"
+  },
+  "/lib/restapi/authz/q/platform/android": {
+    "page": "/lib/restapi/authz/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Define authorization rules"
+  },
+  "/lib/restapi/authz/q/platform/ios": {
+    "page": "/lib/restapi/authz/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Define authorization rules"
+  },
+  "/lib/restapi/authz/q/platform/flutter": {
+    "page": "/lib/restapi/authz/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Define authorization rules"
+  },
+  "/lib/restapi/authz/q/platform/js": {
+    "page": "/lib/restapi/authz/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Define authorization rules"
+  },
+  "/lib/restapi/existing-resources/q/platform/android": {
+    "page": "/lib/restapi/existing-resources/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/restapi/existing-resources/q/platform/ios": {
+    "page": "/lib/restapi/existing-resources/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/restapi/existing-resources/q/platform/flutter": {
+    "page": "/lib/restapi/existing-resources/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/auth/getting-started/q/platform/android": {
+    "page": "/lib/auth/getting-started/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/auth/getting-started/q/platform/flutter": {
+    "page": "/lib/auth/getting-started/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/auth/getting-started/q/platform/ios": {
+    "page": "/lib/auth/getting-started/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/auth/getting-started/q/platform/js": {
+    "page": "/lib/auth/getting-started/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/auth/start/q/platform/js": {
+    "page": "/lib/auth/start/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Create or re-use existing backend"
+  },
+  "/lib/auth/emailpassword/q/platform/js": {
+    "page": "/lib/auth/emailpassword/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign up, Sign in & Sign out"
+  },
+  "/lib/auth/social/q/platform/js": {
+    "page": "/lib/auth/social/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Social sign-in (OAuth)"
+  },
+  "/lib/auth/mfa/q/platform/js": {
+    "page": "/lib/auth/mfa/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Multi-factor authentication"
+  },
+  "/lib/auth/manageusers/q/platform/js": {
+    "page": "/lib/auth/manageusers/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Password & user management"
+  },
+  "/lib/auth/switch-auth/q/platform/js": {
+    "page": "/lib/auth/switch-auth/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Switching authentication flows"
+  },
+  "/lib/auth/customui/q/platform/js": {
+    "page": "/lib/auth/customui/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Customize UI components"
+  },
+  "/lib/auth/advanced/q/platform/js": {
+    "page": "/lib/auth/advanced/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Advanced workflows"
+  },
+  "/lib/auth/signin/q/platform/android": {
+    "page": "/lib/auth/signin/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in"
+  },
+  "/lib/auth/signin/q/platform/flutter": {
+    "page": "/lib/auth/signin/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in"
+  },
+  "/lib/auth/signin/q/platform/ios": {
+    "page": "/lib/auth/signin/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in"
+  },
+  "/lib/auth/signin_with_custom_flow/q/platform/ios": {
+    "page": "/lib/auth/signin_with_custom_flow/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in with custom flow"
+  },
+  "/lib/auth/signin_with_custom_flow/q/platform/flutter": {
+    "page": "/lib/auth/signin_with_custom_flow/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in with custom flow"
+  },
+  "/lib/auth/signin_web_ui/q/platform/android": {
+    "page": "/lib/auth/signin_web_ui/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in with web UI"
+  },
+  "/lib/auth/signin_web_ui/q/platform/flutter": {
+    "page": "/lib/auth/signin_web_ui/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in with web UI"
+  },
+  "/lib/auth/signin_web_ui/q/platform/ios": {
+    "page": "/lib/auth/signin_web_ui/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in with web UI"
+  },
+  "/lib/auth/social/q/platform/android": {
+    "page": "/lib/auth/social/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Social sign-in (OAuth)"
+  },
+  "/lib/auth/social/q/platform/flutter": {
+    "page": "/lib/auth/social/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Social sign-in (OAuth)"
+  },
+  "/lib/auth/social/q/platform/ios": {
+    "page": "/lib/auth/social/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Social sign-in (OAuth)"
+  },
+  "/lib/auth/sms_flows/q/platform/flutter": {
+    "page": "/lib/auth/sms_flows/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "SMS flows"
+  },
+  "/lib/auth/signin_next_steps/q/platform/ios": {
+    "page": "/lib/auth/signin_next_steps/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign in next steps"
+  },
+  "/lib/auth/guest_access/q/platform/android": {
+    "page": "/lib/auth/guest_access/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Guest access"
+  },
+  "/lib/auth/guest_access/q/platform/flutter": {
+    "page": "/lib/auth/guest_access/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Guest access"
+  },
+  "/lib/auth/guest_access/q/platform/ios": {
+    "page": "/lib/auth/guest_access/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Guest access"
+  },
+  "/lib/auth/auth-events/q/platform/android": {
+    "page": "/lib/auth/auth-events/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Auth events"
+  },
+  "/lib/auth/auth-events/q/platform/flutter": {
+    "page": "/lib/auth/auth-events/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Auth events"
+  },
+  "/lib/auth/auth-events/q/platform/ios": {
+    "page": "/lib/auth/auth-events/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Auth events"
+  },
+  "/lib/auth/auth-events/q/platform/js": {
+    "page": "/lib/auth/auth-events/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Auth events"
+  },
+  "/lib/auth/user-attributes/q/platform/android": {
+    "page": "/lib/auth/user-attributes/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "User attributes"
+  },
+  "/lib/auth/user-attributes/q/platform/flutter": {
+    "page": "/lib/auth/user-attributes/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "User attributes"
+  },
+  "/lib/auth/user-attributes/q/platform/ios": {
+    "page": "/lib/auth/user-attributes/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "User attributes"
+  },
+  "/lib/auth/device_features/q/platform/android": {
+    "page": "/lib/auth/device_features/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Remember a device"
+  },
+  "/lib/auth/device_features/q/platform/ios": {
+    "page": "/lib/auth/device_features/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Remember a device"
+  },
+  "/lib/auth/device_features/q/platform/js": {
+    "page": "/lib/auth/device_features/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Remember a device"
+  },
+  "/lib/auth/device_features/q/platform/flutter": {
+    "page": "/lib/auth/device_features/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Remember a device"
+  },
+  "/lib/auth/password_management/q/platform/android": {
+    "page": "/lib/auth/password_management/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Password management"
+  },
+  "/lib/auth/password_management/q/platform/flutter": {
+    "page": "/lib/auth/password_management/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Password management"
+  },
+  "/lib/auth/password_management/q/platform/ios": {
+    "page": "/lib/auth/password_management/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Password management"
+  },
+  "/lib/auth/signOut/q/platform/android": {
+    "page": "/lib/auth/signOut/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign out"
+  },
+  "/lib/auth/signOut/q/platform/flutter": {
+    "page": "/lib/auth/signOut/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign out"
+  },
+  "/lib/auth/signOut/q/platform/ios": {
+    "page": "/lib/auth/signOut/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Sign out"
+  },
+  "/lib/auth/access_credentials/q/platform/android": {
+    "page": "/lib/auth/access_credentials/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Accessing credentials"
+  },
+  "/lib/auth/access_credentials/q/platform/flutter": {
+    "page": "/lib/auth/access_credentials/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Accessing credentials"
+  },
+  "/lib/auth/access_credentials/q/platform/ios": {
+    "page": "/lib/auth/access_credentials/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Accessing credentials"
+  },
+  "/lib/auth/managing_credentials/q/platform/flutter": {
+    "page": "/lib/auth/managing_credentials/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Managing credentials"
+  },
+  "/lib/auth/delete_user/q/platform/android": {
+    "page": "/lib/auth/delete_user/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Delete user"
+  },
+  "/lib/auth/delete_user/q/platform/flutter": {
+    "page": "/lib/auth/delete_user/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Delete user"
+  },
+  "/lib/auth/delete_user/q/platform/ios": {
+    "page": "/lib/auth/delete_user/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Delete user"
+  },
+  "/lib/auth/delete_user/q/platform/js": {
+    "page": "/lib/auth/delete_user/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Delete user"
+  },
+  "/lib/auth/escapehatch/q/platform/android": {
+    "page": "/lib/auth/escapehatch/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/auth/escapehatch/q/platform/ios": {
+    "page": "/lib/auth/escapehatch/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/auth/overview/q/platform/android": {
+    "page": "/lib/auth/overview/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Under the hood"
+  },
+  "/lib/auth/overview/q/platform/ios": {
+    "page": "/lib/auth/overview/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Under the hood"
+  },
+  "/lib/auth/overview/q/platform/js": {
+    "page": "/lib/auth/overview/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Under the hood"
+  },
+  "/lib/auth/existing-resources/q/platform/android": {
+    "page": "/lib/auth/existing-resources/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Use existing Amazon Cognito resources"
+  },
+  "/lib/auth/existing-resources/q/platform/flutter": {
+    "page": "/lib/auth/existing-resources/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Use existing Amazon Cognito resources"
+  },
+  "/lib/auth/existing-resources/q/platform/ios": {
+    "page": "/lib/auth/existing-resources/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Amplify Libraries",
+    "title": "Use existing Amazon Cognito resources"
+  },
+  "/lib/datastore/getting-started/q/platform/android": {
+    "page": "/lib/datastore/getting-started/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/datastore/getting-started/q/platform/flutter": {
+    "page": "/lib/datastore/getting-started/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/datastore/getting-started/q/platform/ios": {
+    "page": "/lib/datastore/getting-started/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/datastore/getting-started/q/platform/js": {
+    "page": "/lib/datastore/getting-started/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/datastore/data-access/q/platform/android": {
+    "page": "/lib/datastore/data-access/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Manipulating data"
+  },
+  "/lib/datastore/data-access/q/platform/flutter": {
+    "page": "/lib/datastore/data-access/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Manipulating data"
+  },
+  "/lib/datastore/data-access/q/platform/ios": {
+    "page": "/lib/datastore/data-access/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Manipulating data"
+  },
+  "/lib/datastore/data-access/q/platform/js": {
+    "page": "/lib/datastore/data-access/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Manipulating data"
+  },
+  "/lib/datastore/relational/q/platform/android": {
+    "page": "/lib/datastore/relational/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Relational models"
+  },
+  "/lib/datastore/relational/q/platform/flutter": {
+    "page": "/lib/datastore/relational/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Relational models"
+  },
+  "/lib/datastore/relational/q/platform/ios": {
+    "page": "/lib/datastore/relational/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Relational models"
+  },
+  "/lib/datastore/relational/q/platform/js": {
+    "page": "/lib/datastore/relational/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Relational models"
+  },
+  "/lib/datastore/sync/q/platform/android": {
+    "page": "/lib/datastore/sync/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Syncing data to cloud"
+  },
+  "/lib/datastore/sync/q/platform/flutter": {
+    "page": "/lib/datastore/sync/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Syncing data to cloud"
+  },
+  "/lib/datastore/sync/q/platform/ios": {
+    "page": "/lib/datastore/sync/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Syncing data to cloud"
+  },
+  "/lib/datastore/sync/q/platform/js": {
+    "page": "/lib/datastore/sync/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Syncing data to cloud"
+  },
+  "/lib/datastore/setup-auth-rules/q/platform/android": {
+    "page": "/lib/datastore/setup-auth-rules/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Setup authorization rules"
+  },
+  "/lib/datastore/setup-auth-rules/q/platform/flutter": {
+    "page": "/lib/datastore/setup-auth-rules/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Setup authorization rules"
+  },
+  "/lib/datastore/setup-auth-rules/q/platform/ios": {
+    "page": "/lib/datastore/setup-auth-rules/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Setup authorization rules"
+  },
+  "/lib/datastore/setup-auth-rules/q/platform/js": {
+    "page": "/lib/datastore/setup-auth-rules/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Setup authorization rules"
+  },
+  "/lib/datastore/conflict/q/platform/android": {
+    "page": "/lib/datastore/conflict/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Conflict resolution"
+  },
+  "/lib/datastore/conflict/q/platform/flutter": {
+    "page": "/lib/datastore/conflict/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Conflict resolution"
+  },
+  "/lib/datastore/conflict/q/platform/ios": {
+    "page": "/lib/datastore/conflict/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Conflict resolution"
+  },
+  "/lib/datastore/conflict/q/platform/js": {
+    "page": "/lib/datastore/conflict/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Conflict resolution"
+  },
+  "/lib/datastore/real-time/q/platform/android": {
+    "page": "/lib/datastore/real-time/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Real time"
+  },
+  "/lib/datastore/real-time/q/platform/flutter": {
+    "page": "/lib/datastore/real-time/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Real time"
+  },
+  "/lib/datastore/real-time/q/platform/ios": {
+    "page": "/lib/datastore/real-time/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Real time"
+  },
+  "/lib/datastore/real-time/q/platform/js": {
+    "page": "/lib/datastore/real-time/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Real time"
+  },
+  "/lib/datastore/datastore-events/q/platform/android": {
+    "page": "/lib/datastore/datastore-events/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "DataStore Events"
+  },
+  "/lib/datastore/datastore-events/q/platform/flutter": {
+    "page": "/lib/datastore/datastore-events/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "DataStore Events"
+  },
+  "/lib/datastore/datastore-events/q/platform/ios": {
+    "page": "/lib/datastore/datastore-events/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "DataStore Events"
+  },
+  "/lib/datastore/datastore-events/q/platform/js": {
+    "page": "/lib/datastore/datastore-events/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "DataStore Events"
+  },
+  "/lib/datastore/other-methods/q/platform/android": {
+    "page": "/lib/datastore/other-methods/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Other methods"
+  },
+  "/lib/datastore/other-methods/q/platform/flutter": {
+    "page": "/lib/datastore/other-methods/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Other methods"
+  },
+  "/lib/datastore/other-methods/q/platform/ios": {
+    "page": "/lib/datastore/other-methods/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Other methods"
+  },
+  "/lib/datastore/other-methods/q/platform/js": {
+    "page": "/lib/datastore/other-methods/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Other methods"
+  },
+  "/lib/datastore/schema-updates/q/platform/android": {
+    "page": "/lib/datastore/schema-updates/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Schema updates"
+  },
+  "/lib/datastore/schema-updates/q/platform/flutter": {
+    "page": "/lib/datastore/schema-updates/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Schema updates"
+  },
+  "/lib/datastore/schema-updates/q/platform/ios": {
+    "page": "/lib/datastore/schema-updates/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Schema updates"
+  },
+  "/lib/datastore/schema-updates/q/platform/js": {
+    "page": "/lib/datastore/schema-updates/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Schema updates"
+  },
+  "/lib/datastore/how-it-works/q/platform/android": {
+    "page": "/lib/datastore/how-it-works/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "How it works"
+  },
+  "/lib/datastore/how-it-works/q/platform/flutter": {
+    "page": "/lib/datastore/how-it-works/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "How it works"
+  },
+  "/lib/datastore/how-it-works/q/platform/ios": {
+    "page": "/lib/datastore/how-it-works/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "How it works"
+  },
+  "/lib/datastore/how-it-works/q/platform/js": {
+    "page": "/lib/datastore/how-it-works/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "How it works"
+  },
+  "/lib/datastore/examples/q/platform/js": {
+    "page": "/lib/datastore/examples/q/platform/[platform]",
+    "subcategory": "DataStore",
+    "category": "Amplify Libraries",
+    "title": "Examples"
+  },
+  "/lib/geo/getting-started/q/platform/js": {
+    "page": "/lib/geo/getting-started/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/geo/getting-started/q/platform/ios": {
+    "page": "/lib/geo/getting-started/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/geo/getting-started/q/platform/android": {
+    "page": "/lib/geo/getting-started/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/geo/maps/q/platform/js": {
+    "page": "/lib/geo/maps/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Maps"
+  },
+  "/lib/geo/maps/q/platform/ios": {
+    "page": "/lib/geo/maps/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Maps"
+  },
+  "/lib/geo/maps/q/platform/android": {
+    "page": "/lib/geo/maps/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Maps"
+  },
+  "/lib/geo/search/q/platform/js": {
+    "page": "/lib/geo/search/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Location Search"
+  },
+  "/lib/geo/search/q/platform/ios": {
+    "page": "/lib/geo/search/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Location Search"
+  },
+  "/lib/geo/search/q/platform/android": {
+    "page": "/lib/geo/search/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Location Search"
+  },
+  "/lib/geo/geofences/q/platform/js": {
+    "page": "/lib/geo/geofences/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Geofences"
+  },
+  "/lib/geo/existing-resources/q/platform/js": {
+    "page": "/lib/geo/existing-resources/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Use existing Amazon Location resources"
+  },
+  "/lib/geo/existing-resources/q/platform/ios": {
+    "page": "/lib/geo/existing-resources/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Use existing Amazon Location resources"
+  },
+  "/lib/geo/existing-resources/q/platform/android": {
+    "page": "/lib/geo/existing-resources/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Use existing Amazon Location resources"
+  },
+  "/lib/geo/google-migration/q/platform/js": {
+    "page": "/lib/geo/google-migration/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Migrating from Google Maps"
+  },
+  "/lib/geo/escapehatch/q/platform/js": {
+    "page": "/lib/geo/escapehatch/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Escape Hatch"
+  },
+  "/lib/geo/escapehatch/q/platform/ios": {
+    "page": "/lib/geo/escapehatch/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Escape Hatch"
+  },
+  "/lib/geo/escapehatch/q/platform/android": {
+    "page": "/lib/geo/escapehatch/q/platform/[platform]",
+    "subcategory": "Geo",
+    "category": "Amplify Libraries",
+    "title": "Escape Hatch"
+  },
+  "/lib/in-app-messaging/overview/q/platform/js": {
+    "page": "/lib/in-app-messaging/overview/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Overview"
+  },
+  "/lib/in-app-messaging/prerequisites/q/platform/js": {
+    "page": "/lib/in-app-messaging/prerequisites/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Prerequisites"
+  },
+  "/lib/in-app-messaging/create-campaign/q/platform/js": {
+    "page": "/lib/in-app-messaging/create-campaign/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Create an In-App Messaging campaign"
+  },
+  "/lib/in-app-messaging/getting-started/q/platform/js": {
+    "page": "/lib/in-app-messaging/getting-started/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/in-app-messaging/sync-messages/q/platform/js": {
+    "page": "/lib/in-app-messaging/sync-messages/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Sync messages"
+  },
+  "/lib/in-app-messaging/display-message/q/platform/js": {
+    "page": "/lib/in-app-messaging/display-message/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Display message"
+  },
+  "/lib/in-app-messaging/clear-messages/q/platform/js": {
+    "page": "/lib/in-app-messaging/clear-messages/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Clear messages"
+  },
+  "/lib/in-app-messaging/customize/q/platform/js": {
+    "page": "/lib/in-app-messaging/customize/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Customize your UI"
+  },
+  "/lib/in-app-messaging/identify-user/q/platform/js": {
+    "page": "/lib/in-app-messaging/identify-user/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Identify a user"
+  },
+  "/lib/in-app-messaging/respond-interaction-events/q/platform/js": {
+    "page": "/lib/in-app-messaging/respond-interaction-events/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Respond to interaction events"
+  },
+  "/lib/in-app-messaging/resolve-conflicts/q/platform/js": {
+    "page": "/lib/in-app-messaging/resolve-conflicts/q/platform/[platform]",
+    "subcategory": "In-App Messaging (Preview)",
+    "category": "Amplify Libraries",
+    "title": "Resolving conflicts"
+  },
+  "/lib/interactions/getting-started/q/platform/js": {
+    "page": "/lib/interactions/getting-started/q/platform/[platform]",
+    "subcategory": "Interactions",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/interactions/chatbot/q/platform/js": {
+    "page": "/lib/interactions/chatbot/q/platform/[platform]",
+    "subcategory": "Interactions",
+    "category": "Amplify Libraries",
+    "title": "Interact with bots"
+  },
+  "/lib/predictions/intro/q/platform/js": {
+    "page": "/lib/predictions/intro/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Overview"
+  },
+  "/lib/predictions/getting-started/q/platform/android": {
+    "page": "/lib/predictions/getting-started/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/predictions/getting-started/q/platform/ios": {
+    "page": "/lib/predictions/getting-started/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/predictions/getting-started/q/platform/js": {
+    "page": "/lib/predictions/getting-started/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/predictions/text-speech/q/platform/android": {
+    "page": "/lib/predictions/text-speech/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Text to speech"
+  },
+  "/lib/predictions/text-speech/q/platform/ios": {
+    "page": "/lib/predictions/text-speech/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Text to speech"
+  },
+  "/lib/predictions/text-speech/q/platform/js": {
+    "page": "/lib/predictions/text-speech/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Text to speech"
+  },
+  "/lib/predictions/transcribe/q/platform/ios": {
+    "page": "/lib/predictions/transcribe/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Transcribe audio to text"
+  },
+  "/lib/predictions/transcribe/q/platform/js": {
+    "page": "/lib/predictions/transcribe/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Transcribe audio to text"
+  },
+  "/lib/predictions/translate/q/platform/android": {
+    "page": "/lib/predictions/translate/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Translate language"
+  },
+  "/lib/predictions/translate/q/platform/ios": {
+    "page": "/lib/predictions/translate/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Translate language"
+  },
+  "/lib/predictions/translate/q/platform/js": {
+    "page": "/lib/predictions/translate/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Translate language"
+  },
+  "/lib/predictions/identify-text/q/platform/android": {
+    "page": "/lib/predictions/identify-text/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Identify text"
+  },
+  "/lib/predictions/identify-text/q/platform/ios": {
+    "page": "/lib/predictions/identify-text/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Identify text"
+  },
+  "/lib/predictions/identify-text/q/platform/js": {
+    "page": "/lib/predictions/identify-text/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Identify text"
+  },
+  "/lib/predictions/identify-entity/q/platform/android": {
+    "page": "/lib/predictions/identify-entity/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Identify entities from images"
+  },
+  "/lib/predictions/identify-entity/q/platform/ios": {
+    "page": "/lib/predictions/identify-entity/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Identify entities from images"
+  },
+  "/lib/predictions/identify-entity/q/platform/js": {
+    "page": "/lib/predictions/identify-entity/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Identify entities from images"
+  },
+  "/lib/predictions/label-image/q/platform/android": {
+    "page": "/lib/predictions/label-image/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Label objects in image"
+  },
+  "/lib/predictions/label-image/q/platform/ios": {
+    "page": "/lib/predictions/label-image/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Label objects in image"
+  },
+  "/lib/predictions/label-image/q/platform/js": {
+    "page": "/lib/predictions/label-image/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Label objects in image"
+  },
+  "/lib/predictions/interpret/q/platform/android": {
+    "page": "/lib/predictions/interpret/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Interpret sentiment"
+  },
+  "/lib/predictions/interpret/q/platform/ios": {
+    "page": "/lib/predictions/interpret/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Interpret sentiment"
+  },
+  "/lib/predictions/interpret/q/platform/js": {
+    "page": "/lib/predictions/interpret/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Interpret sentiment"
+  },
+  "/lib/predictions/escapehatch/q/platform/android": {
+    "page": "/lib/predictions/escapehatch/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/predictions/escapehatch/q/platform/ios": {
+    "page": "/lib/predictions/escapehatch/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/predictions/sample/q/platform/js": {
+    "page": "/lib/predictions/sample/q/platform/[platform]",
+    "subcategory": "Predictions",
+    "category": "Amplify Libraries",
+    "title": "Example"
+  },
+  "/lib/pubsub/getting-started/q/platform/js": {
+    "page": "/lib/pubsub/getting-started/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/pubsub/subunsub/q/platform/js": {
+    "page": "/lib/pubsub/subunsub/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "Amplify Libraries",
+    "title": "Subscribe & Unsubscribe"
+  },
+  "/lib/pubsub/publish/q/platform/js": {
+    "page": "/lib/pubsub/publish/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "Amplify Libraries",
+    "title": "Publish"
+  },
+  "/lib/push-notifications/overview/q/platform/js": {
+    "page": "/lib/push-notifications/overview/q/platform/[platform]",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries",
+    "title": "Overview"
+  },
+  "/lib/push-notifications/getting-started/q/platform/js": {
+    "page": "/lib/push-notifications/getting-started/q/platform/[platform]",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/push-notifications/working-with-api/q/platform/js": {
+    "page": "/lib/push-notifications/working-with-api/q/platform/[platform]",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries",
+    "title": "Working with API"
+  },
+  "/lib/push-notifications/testing/q/platform/js": {
+    "page": "/lib/push-notifications/testing/q/platform/[platform]",
+    "subcategory": "Push Notifications",
+    "category": "Amplify Libraries",
+    "title": "Testing"
+  },
+  "/lib/storage/getting-started/q/platform/android": {
+    "page": "/lib/storage/getting-started/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/storage/getting-started/q/platform/ios": {
+    "page": "/lib/storage/getting-started/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/storage/getting-started/q/platform/flutter": {
+    "page": "/lib/storage/getting-started/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/storage/getting-started/q/platform/js": {
+    "page": "/lib/storage/getting-started/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/storage/overview/q/platform/android": {
+    "page": "/lib/storage/overview/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/storage/overview/q/platform/ios": {
+    "page": "/lib/storage/overview/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/storage/overview/q/platform/flutter": {
+    "page": "/lib/storage/overview/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/storage/overview/q/platform/js": {
+    "page": "/lib/storage/overview/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Concepts"
+  },
+  "/lib/storage/upload/q/platform/android": {
+    "page": "/lib/storage/upload/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Upload files"
+  },
+  "/lib/storage/upload/q/platform/ios": {
+    "page": "/lib/storage/upload/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Upload files"
+  },
+  "/lib/storage/upload/q/platform/flutter": {
+    "page": "/lib/storage/upload/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Upload files"
+  },
+  "/lib/storage/upload/q/platform/js": {
+    "page": "/lib/storage/upload/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Upload files"
+  },
+  "/lib/storage/download/q/platform/android": {
+    "page": "/lib/storage/download/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Download files"
+  },
+  "/lib/storage/download/q/platform/ios": {
+    "page": "/lib/storage/download/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Download files"
+  },
+  "/lib/storage/download/q/platform/flutter": {
+    "page": "/lib/storage/download/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Download files"
+  },
+  "/lib/storage/download/q/platform/js": {
+    "page": "/lib/storage/download/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Download files"
+  },
+  "/lib/storage/list/q/platform/android": {
+    "page": "/lib/storage/list/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "List files"
+  },
+  "/lib/storage/list/q/platform/ios": {
+    "page": "/lib/storage/list/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "List files"
+  },
+  "/lib/storage/list/q/platform/flutter": {
+    "page": "/lib/storage/list/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "List files"
+  },
+  "/lib/storage/list/q/platform/js": {
+    "page": "/lib/storage/list/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "List files"
+  },
+  "/lib/storage/copy/q/platform/js": {
+    "page": "/lib/storage/copy/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Copy files"
+  },
+  "/lib/storage/remove/q/platform/android": {
+    "page": "/lib/storage/remove/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Remove files"
+  },
+  "/lib/storage/remove/q/platform/ios": {
+    "page": "/lib/storage/remove/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Remove files"
+  },
+  "/lib/storage/remove/q/platform/flutter": {
+    "page": "/lib/storage/remove/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Remove files"
+  },
+  "/lib/storage/remove/q/platform/js": {
+    "page": "/lib/storage/remove/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Remove files"
+  },
+  "/lib/storage/cancel-requests/q/platform/js": {
+    "page": "/lib/storage/cancel-requests/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Cancel requests"
+  },
+  "/lib/storage/configureaccess/q/platform/android": {
+    "page": "/lib/storage/configureaccess/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "File access levels"
+  },
+  "/lib/storage/configureaccess/q/platform/ios": {
+    "page": "/lib/storage/configureaccess/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "File access levels"
+  },
+  "/lib/storage/configureaccess/q/platform/flutter": {
+    "page": "/lib/storage/configureaccess/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "File access levels"
+  },
+  "/lib/storage/configureaccess/q/platform/js": {
+    "page": "/lib/storage/configureaccess/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "File access levels"
+  },
+  "/lib/storage/autotrack/q/platform/js": {
+    "page": "/lib/storage/autotrack/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Automatically track events"
+  },
+  "/lib/storage/triggers/q/platform/android": {
+    "page": "/lib/storage/triggers/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Lambda triggers"
+  },
+  "/lib/storage/triggers/q/platform/ios": {
+    "page": "/lib/storage/triggers/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Lambda triggers"
+  },
+  "/lib/storage/triggers/q/platform/flutter": {
+    "page": "/lib/storage/triggers/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Lambda triggers"
+  },
+  "/lib/storage/triggers/q/platform/js": {
+    "page": "/lib/storage/triggers/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Lambda triggers"
+  },
+  "/lib/storage/escapehatch/q/platform/android": {
+    "page": "/lib/storage/escapehatch/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/storage/escapehatch/q/platform/ios": {
+    "page": "/lib/storage/escapehatch/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Escape hatch"
+  },
+  "/lib/storage/existing-resources/q/platform/android": {
+    "page": "/lib/storage/existing-resources/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/storage/existing-resources/q/platform/ios": {
+    "page": "/lib/storage/existing-resources/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/storage/existing-resources/q/platform/flutter": {
+    "page": "/lib/storage/existing-resources/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "Amplify Libraries",
+    "title": "Use existing AWS resources"
+  },
+  "/lib/xr/getting-started/q/platform/js": {
+    "page": "/lib/xr/getting-started/q/platform/[platform]",
+    "subcategory": "XR",
+    "category": "Amplify Libraries",
+    "title": "Getting started"
+  },
+  "/lib/xr/sceneapi/q/platform/js": {
+    "page": "/lib/xr/sceneapi/q/platform/[platform]",
+    "subcategory": "XR",
+    "category": "Amplify Libraries",
+    "title": "Scene API"
+  },
+  "/lib/utilities/serviceworker/q/platform/js": {
+    "page": "/lib/utilities/serviceworker/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Service Worker"
+  },
+  "/lib/utilities/cache/q/platform/js": {
+    "page": "/lib/utilities/cache/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Cache"
+  },
+  "/lib/utilities/hub/q/platform/android": {
+    "page": "/lib/utilities/hub/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Hub"
+  },
+  "/lib/utilities/hub/q/platform/ios": {
+    "page": "/lib/utilities/hub/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Hub"
+  },
+  "/lib/utilities/hub/q/platform/js": {
+    "page": "/lib/utilities/hub/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Hub"
+  },
+  "/lib/utilities/i18n/q/platform/js": {
+    "page": "/lib/utilities/i18n/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Internationalization"
+  },
+  "/lib/utilities/logger/q/platform/js": {
+    "page": "/lib/utilities/logger/q/platform/[platform]",
+    "subcategory": "Utilities",
+    "category": "Amplify Libraries",
+    "title": "Logger"
+  },
+  "/lib/client-configuration/configuring-amplify-categories/q/platform/js": {
+    "page": "/lib/client-configuration/configuring-amplify-categories/q/platform/[platform]",
+    "subcategory": "Client configuration",
+    "category": "Amplify Libraries",
+    "title": "Configuring Amplify Categories"
+  },
+  "/lib/debugging/dev-menu/q/platform/android": {
+    "page": "/lib/debugging/dev-menu/q/platform/[platform]",
+    "subcategory": "Debugging",
+    "category": "Amplify Libraries",
+    "title": "Developer Menu"
+  },
+  "/lib/debugging/dev-menu/q/platform/ios": {
+    "page": "/lib/debugging/dev-menu/q/platform/[platform]",
+    "subcategory": "Debugging",
+    "category": "Amplify Libraries",
+    "title": "Developer Menu"
+  },
+  "/lib/info/overview/q/platform/ios": {
+    "page": "/lib/info/overview/q/platform/[platform]",
+    "subcategory": "Info",
+    "category": "Amplify Libraries",
+    "title": "Data Information"
+  },
+  "/lib/info/app-uninstall/q/platform/ios": {
+    "page": "/lib/info/app-uninstall/q/platform/[platform]",
+    "subcategory": "Info",
+    "category": "Amplify Libraries",
+    "title": "Uninstalling the app"
+  },
+  "/lib/ssr/q/platform/js": {
+    "page": "/lib/ssr/q/platform/[platform]",
+    "subcategory": "Server-Side Rendering",
+    "category": "Amplify Libraries",
+    "title": "Getting Started with Server-Side Rendering (SSR)"
+  },
+  "/lib/troubleshooting/upgrading/q/platform/flutter": {
+    "page": "/lib/troubleshooting/upgrading/q/platform/[platform]",
+    "subcategory": "Troubleshooting",
+    "category": "Amplify Libraries",
+    "title": "Upgrading Amplify packages"
+  },
+  "/lib/troubleshooting/upgrading/q/platform/js": {
+    "page": "/lib/troubleshooting/upgrading/q/platform/[platform]",
+    "subcategory": "Troubleshooting",
+    "category": "Amplify Libraries",
+    "title": "Upgrading Amplify packages"
+  },
+  "/lib/troubleshooting/strict-mode/q/platform/js": {
+    "page": "/lib/troubleshooting/strict-mode/q/platform/[platform]",
+    "subcategory": "Troubleshooting",
+    "category": "Amplify Libraries",
+    "title": "TypeScript strict mode"
+  },
+  "/sdk/api/graphql/q/platform/android": {
+    "page": "/sdk/api/graphql/q/platform/[platform]",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK",
+    "title": "GraphQL - Realtime and Offline"
+  },
+  "/sdk/api/graphql/q/platform/ios": {
+    "page": "/sdk/api/graphql/q/platform/[platform]",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK",
+    "title": "GraphQL - Realtime and Offline"
+  },
+  "/sdk/api/rest/q/platform/android": {
+    "page": "/sdk/api/rest/q/platform/[platform]",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK",
+    "title": "REST API"
+  },
+  "/sdk/api/rest/q/platform/ios": {
+    "page": "/sdk/api/rest/q/platform/[platform]",
+    "subcategory": "API",
+    "category": "AWS Mobile SDK",
+    "title": "REST API"
+  },
+  "/sdk/analytics/getting-started/q/platform/android": {
+    "page": "/sdk/analytics/getting-started/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Getting Started"
+  },
+  "/sdk/analytics/getting-started/q/platform/ios": {
+    "page": "/sdk/analytics/getting-started/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Getting Started"
+  },
+  "/sdk/analytics/events/q/platform/android": {
+    "page": "/sdk/analytics/events/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Events"
+  },
+  "/sdk/analytics/events/q/platform/ios": {
+    "page": "/sdk/analytics/events/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Events"
+  },
+  "/sdk/analytics/endpoints/q/platform/android": {
+    "page": "/sdk/analytics/endpoints/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Endpoints"
+  },
+  "/sdk/analytics/endpoints/q/platform/ios": {
+    "page": "/sdk/analytics/endpoints/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Endpoints"
+  },
+  "/sdk/analytics/kinesis/q/platform/android": {
+    "page": "/sdk/analytics/kinesis/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Using Amazon Kinesis"
+  },
+  "/sdk/analytics/kinesis/q/platform/ios": {
+    "page": "/sdk/analytics/kinesis/q/platform/[platform]",
+    "subcategory": "Analytics",
+    "category": "AWS Mobile SDK",
+    "title": "Using Amazon Kinesis"
+  },
+  "/sdk/auth/getting-started/q/platform/android": {
+    "page": "/sdk/auth/getting-started/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/auth/getting-started/q/platform/ios": {
+    "page": "/sdk/auth/getting-started/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/auth/how-it-works/q/platform/android": {
+    "page": "/sdk/auth/how-it-works/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Overview"
+  },
+  "/sdk/auth/how-it-works/q/platform/ios": {
+    "page": "/sdk/auth/how-it-works/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Overview"
+  },
+  "/sdk/auth/guest-access/q/platform/android": {
+    "page": "/sdk/auth/guest-access/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Guest access"
+  },
+  "/sdk/auth/guest-access/q/platform/ios": {
+    "page": "/sdk/auth/guest-access/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Guest access"
+  },
+  "/sdk/auth/drop-in-auth/q/platform/android": {
+    "page": "/sdk/auth/drop-in-auth/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Drop-in auth"
+  },
+  "/sdk/auth/drop-in-auth/q/platform/ios": {
+    "page": "/sdk/auth/drop-in-auth/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Drop-in auth"
+  },
+  "/sdk/auth/working-with-api/q/platform/android": {
+    "page": "/sdk/auth/working-with-api/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Working with the API"
+  },
+  "/sdk/auth/working-with-api/q/platform/ios": {
+    "page": "/sdk/auth/working-with-api/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Working with the API"
+  },
+  "/sdk/auth/federated-identities/q/platform/android": {
+    "page": "/sdk/auth/federated-identities/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Federated identities"
+  },
+  "/sdk/auth/federated-identities/q/platform/ios": {
+    "page": "/sdk/auth/federated-identities/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Federated identities"
+  },
+  "/sdk/auth/hosted-ui/q/platform/android": {
+    "page": "/sdk/auth/hosted-ui/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Hosted UI"
+  },
+  "/sdk/auth/hosted-ui/q/platform/ios": {
+    "page": "/sdk/auth/hosted-ui/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Hosted UI"
+  },
+  "/sdk/auth/custom-auth-flow/q/platform/android": {
+    "page": "/sdk/auth/custom-auth-flow/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Custom auth flow"
+  },
+  "/sdk/auth/custom-auth-flow/q/platform/ios": {
+    "page": "/sdk/auth/custom-auth-flow/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Custom auth flow"
+  },
+  "/sdk/auth/device-features/q/platform/android": {
+    "page": "/sdk/auth/device-features/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Device features"
+  },
+  "/sdk/auth/device-features/q/platform/ios": {
+    "page": "/sdk/auth/device-features/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "AWS Mobile SDK",
+    "title": "Device features"
+  },
+  "/sdk/push-notifications/getting-started/q/platform/android": {
+    "page": "/sdk/push-notifications/getting-started/q/platform/[platform]",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/push-notifications/getting-started/q/platform/ios": {
+    "page": "/sdk/push-notifications/getting-started/q/platform/[platform]",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/push-notifications/messaging-campaign/q/platform/android": {
+    "page": "/sdk/push-notifications/messaging-campaign/q/platform/[platform]",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK",
+    "title": "Messaging campaigns"
+  },
+  "/sdk/push-notifications/messaging-campaign/q/platform/ios": {
+    "page": "/sdk/push-notifications/messaging-campaign/q/platform/[platform]",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK",
+    "title": "Messaging campaigns"
+  },
+  "/sdk/push-notifications/setup-push-service/q/platform/android": {
+    "page": "/sdk/push-notifications/setup-push-service/q/platform/[platform]",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK",
+    "title": "Setting up push notification services"
+  },
+  "/sdk/push-notifications/setup-push-service/q/platform/ios": {
+    "page": "/sdk/push-notifications/setup-push-service/q/platform/[platform]",
+    "subcategory": "Push notifications",
+    "category": "AWS Mobile SDK",
+    "title": "Setting up push notification services"
+  },
+  "/sdk/pubsub/getting-started/q/platform/android": {
+    "page": "/sdk/pubsub/getting-started/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/pubsub/getting-started/q/platform/ios": {
+    "page": "/sdk/pubsub/getting-started/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/pubsub/working-api/q/platform/android": {
+    "page": "/sdk/pubsub/working-api/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK",
+    "title": "Working with the API"
+  },
+  "/sdk/pubsub/working-api/q/platform/ios": {
+    "page": "/sdk/pubsub/working-api/q/platform/[platform]",
+    "subcategory": "PubSub",
+    "category": "AWS Mobile SDK",
+    "title": "Working with the API"
+  },
+  "/sdk/storage/getting-started/q/platform/android": {
+    "page": "/sdk/storage/getting-started/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/storage/getting-started/q/platform/ios": {
+    "page": "/sdk/storage/getting-started/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Getting started"
+  },
+  "/sdk/storage/transfer-utility/q/platform/android": {
+    "page": "/sdk/storage/transfer-utility/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Using TransferUtility"
+  },
+  "/sdk/storage/transfer-utility/q/platform/ios": {
+    "page": "/sdk/storage/transfer-utility/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Using TransferUtility"
+  },
+  "/sdk/storage/graphql-api/q/platform/android": {
+    "page": "/sdk/storage/graphql-api/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Using GraphQL API"
+  },
+  "/sdk/storage/graphql-api/q/platform/ios": {
+    "page": "/sdk/storage/graphql-api/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Using GraphQL API"
+  },
+  "/sdk/storage/configure-access/q/platform/android": {
+    "page": "/sdk/storage/configure-access/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Configure Access"
+  },
+  "/sdk/storage/configure-access/q/platform/ios": {
+    "page": "/sdk/storage/configure-access/q/platform/[platform]",
+    "subcategory": "Storage",
+    "category": "AWS Mobile SDK",
+    "title": "Configure Access"
+  },
+  "/sdk/configuration/setup-options/q/platform/android": {
+    "page": "/sdk/configuration/setup-options/q/platform/[platform]",
+    "subcategory": "Configuration",
+    "category": "AWS Mobile SDK",
+    "title": "SDK Setup Options"
+  },
+  "/sdk/configuration/setup-options/q/platform/ios": {
+    "page": "/sdk/configuration/setup-options/q/platform/[platform]",
+    "subcategory": "Configuration",
+    "category": "AWS Mobile SDK",
+    "title": "SDK Setup Options"
+  },
+  "/sdk/info/app-uninstall/q/platform/android": {
+    "page": "/sdk/info/app-uninstall/q/platform/[platform]",
+    "subcategory": "Info",
+    "category": "AWS Mobile SDK",
+    "title": "Uninstalling the app"
+  },
+  "/ui/api/connect/q/framework/react-native": {
+    "page": "/ui/api/connect/q/framework/[framework]",
+    "subcategory": "API",
+    "category": "Amplify UI Components",
+    "title": "Connect"
+  },
+  "/ui/auth/authenticator/q/framework/react-native": {
+    "page": "/ui/auth/authenticator/q/framework/[framework]",
+    "subcategory": "Authentication",
+    "category": "Amplify UI Components",
+    "title": "Authenticator"
+  },
+  "/ui/auth/authenticator/q/framework/flutter": {
+    "page": "/ui/auth/authenticator/q/framework/[framework]",
+    "subcategory": "Authentication",
+    "category": "Amplify UI Components",
+    "title": "Authenticator"
+  },
+  "/ui/interactions/chatbot/q/framework/react-native": {
+    "page": "/ui/interactions/chatbot/q/framework/[framework]",
+    "subcategory": "Interactions",
+    "category": "Amplify UI Components",
+    "title": "Chatbot"
+  },
+  "/ui/storage/s3-album/q/framework/react-native": {
+    "page": "/ui/storage/s3-album/q/framework/[framework]",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components",
+    "title": "S3 Album"
+  },
+  "/ui/storage/s3-image/q/framework/react-native": {
+    "page": "/ui/storage/s3-image/q/framework/[framework]",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components",
+    "title": "S3 Image"
+  },
+  "/ui/storage/tracking-events/q/framework/react-native": {
+    "page": "/ui/storage/tracking-events/q/framework/[framework]",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components",
+    "title": "Tracking Events"
+  },
+  "/ui/storage/customization/q/framework/react-native": {
+    "page": "/ui/storage/customization/q/framework/[framework]",
+    "subcategory": "Storage",
+    "category": "Amplify UI Components",
+    "title": "Customization"
+  },
+  "/ui/customization/theming/q/framework/react-native": {
+    "page": "/ui/customization/theming/q/framework/[framework]",
+    "subcategory": "Customization",
+    "category": "Amplify UI Components",
+    "title": "Theming"
+  },
+  "/ui/customization/customizing-css/q/framework/react-native": {
+    "page": "/ui/customization/customizing-css/q/framework/[framework]",
+    "subcategory": "Customization",
+    "category": "Amplify UI Components",
+    "title": "Customizing CSS"
+  },
+  "/ui/customization/translations/q/framework/react-native": {
+    "page": "/ui/customization/translations/q/framework/[framework]",
+    "subcategory": "Customization",
+    "category": "Amplify UI Components",
+    "title": "Translations"
+  },
+  "/cli/start/install": {
+    "page": "/cli/start/install",
+    "subcategory": "Get started",
+    "category": "Amplify CLI",
+    "title": "Installation"
+  },
+  "/cli/start/workflows": {
+    "page": "/cli/start/workflows",
+    "subcategory": "Get started",
+    "category": "Amplify CLI",
+    "title": "Typical workflows"
+  },
+  "/cli/graphql/overview": {
+    "page": "/cli/graphql/overview",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/graphql/data-modeling": {
+    "page": "/cli/graphql/data-modeling",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Data modeling"
+  },
+  "/cli/graphql/authorization-rules": {
+    "page": "/cli/graphql/authorization-rules",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Authorization rules"
+  },
+  "/cli/graphql/custom-business-logic": {
+    "page": "/cli/graphql/custom-business-logic",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Custom business logic (Lambda function, HTTP, VTL resolvers)"
+  },
+  "/cli/graphql/search-and-result-aggregations": {
+    "page": "/cli/graphql/search-and-result-aggregations",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Search and result aggregations"
+  },
+  "/cli/graphql/connect-to-machine-learning-services": {
+    "page": "/cli/graphql/connect-to-machine-learning-services",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Connect to machine learning services"
+  },
+  "/cli/graphql/schema-evolution": {
+    "page": "/cli/graphql/schema-evolution",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Evolving GraphQL schemas"
+  },
+  "/cli/graphql/client-code-generation": {
+    "page": "/cli/graphql/client-code-generation",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "JavaScript, Java, Swift code generation"
+  },
+  "/cli/graphql/override": {
+    "page": "/cli/graphql/override",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Override Amplify-generated AppSync resources"
+  },
+  "/cli/graphql/troubleshooting": {
+    "page": "/cli/graphql/troubleshooting",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Troubleshooting"
+  },
+  "/cli/graphql/examples-and-solutions": {
+    "page": "/cli/graphql/examples-and-solutions",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI",
+    "title": "Examples and solutions"
+  },
+  "/cli/restapi/restapi": {
+    "page": "/cli/restapi/restapi",
+    "subcategory": "API (REST)",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/restapi/testing": {
+    "page": "/cli/restapi/testing",
+    "subcategory": "API (REST)",
+    "category": "Amplify CLI",
+    "title": "Test"
+  },
+  "/cli/restapi/override": {
+    "page": "/cli/restapi/override",
+    "subcategory": "API (REST)",
+    "category": "Amplify CLI",
+    "title": "Override Amplify-generated API Gateway resources"
+  },
+  "/cli/auth/overview": {
+    "page": "/cli/auth/overview",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/auth/groups": {
+    "page": "/cli/auth/groups",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI",
+    "title": "User groups"
+  },
+  "/cli/auth/admin": {
+    "page": "/cli/auth/admin",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI",
+    "title": "Admin actions"
+  },
+  "/cli/auth/import": {
+    "page": "/cli/auth/import",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI",
+    "title": "Use an existing Cognito User Pool and Identity Pool"
+  },
+  "/cli/auth/override": {
+    "page": "/cli/auth/override",
+    "subcategory": "Authentication",
+    "category": "Amplify CLI",
+    "title": "Override Amplify-generated Cognito resources"
+  },
+  "/cli/storage/overview": {
+    "page": "/cli/storage/overview",
+    "subcategory": "Storage",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/storage/import": {
+    "page": "/cli/storage/import",
+    "subcategory": "Storage",
+    "category": "Amplify CLI",
+    "title": "Use an existing S3 bucket or DynamoDB table"
+  },
+  "/cli/storage/override": {
+    "page": "/cli/storage/override",
+    "subcategory": "Storage",
+    "category": "Amplify CLI",
+    "title": "Override Amplify-generated S3 and DynamoDB resources"
+  },
+  "/cli/function/layers": {
+    "page": "/cli/function/layers",
+    "subcategory": "Functions",
+    "category": "Amplify CLI",
+    "title": "Reuse code & assets using layers"
+  },
+  "/cli/function/env-vars": {
+    "page": "/cli/function/env-vars",
+    "subcategory": "Functions",
+    "category": "Amplify CLI",
+    "title": "Environment variables"
+  },
+  "/cli/function/secrets": {
+    "page": "/cli/function/secrets",
+    "subcategory": "Functions",
+    "category": "Amplify CLI",
+    "title": "Access secret values"
+  },
+  "/cli/function/build-options": {
+    "page": "/cli/function/build-options",
+    "subcategory": "Functions",
+    "category": "Amplify CLI",
+    "title": "Build options"
+  },
+  "/cli/geo/maps": {
+    "page": "/cli/geo/maps",
+    "subcategory": "Geo",
+    "category": "Amplify CLI",
+    "title": "Maps"
+  },
+  "/cli/geo/search": {
+    "page": "/cli/geo/search",
+    "subcategory": "Geo",
+    "category": "Amplify CLI",
+    "title": "Location Search"
+  },
+  "/cli/geo/geofencing": {
+    "page": "/cli/geo/geofencing",
+    "subcategory": "Geo",
+    "category": "Amplify CLI",
+    "title": "Geofencing"
+  },
+  "/cli/hosting/hosting": {
+    "page": "/cli/hosting/hosting",
+    "subcategory": "Hosting",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/custom/cdk": {
+    "page": "/cli/custom/cdk",
+    "subcategory": "Custom AWS resources",
+    "category": "Amplify CLI",
+    "title": "Use CDK to add custom AWS resources"
+  },
+  "/cli/custom/cloudformation": {
+    "page": "/cli/custom/cloudformation",
+    "subcategory": "Custom AWS resources",
+    "category": "Amplify CLI",
+    "title": "Use CloudFormation to add custom AWS resources"
+  },
+  "/cli/project/tags": {
+    "page": "/cli/project/tags",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI",
+    "title": "Apply tags to generated resources"
+  },
+  "/cli/project/permissions-boundary": {
+    "page": "/cli/project/permissions-boundary",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI",
+    "title": "IAM Permissions Boundary for Amplify-generated roles"
+  },
+  "/cli/project/command-hooks": {
+    "page": "/cli/project/command-hooks",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI",
+    "title": "Command Hooks"
+  },
+  "/cli/project/monorepo": {
+    "page": "/cli/project/monorepo",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI",
+    "title": "Monorepo project structure"
+  },
+  "/cli/project/override": {
+    "page": "/cli/project/override",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI",
+    "title": "Override Amplify-generated project-level IAM resources"
+  },
+  "/cli/project/troubleshooting": {
+    "page": "/cli/project/troubleshooting",
+    "subcategory": "Project-level configurations",
+    "category": "Amplify CLI",
+    "title": "Troubleshooting"
+  },
+  "/cli/teams/overview": {
+    "page": "/cli/teams/overview",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/teams/shared": {
+    "page": "/cli/teams/shared",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI",
+    "title": "Share single environment"
+  },
+  "/cli/teams/sandbox": {
+    "page": "/cli/teams/sandbox",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI",
+    "title": "Sandbox environments"
+  },
+  "/cli/teams/multi-frontend": {
+    "page": "/cli/teams/multi-frontend",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI",
+    "title": "Multiple frontends"
+  },
+  "/cli/teams/cicd": {
+    "page": "/cli/teams/cicd",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI",
+    "title": "Continuous deployment"
+  },
+  "/cli/teams/commands": {
+    "page": "/cli/teams/commands",
+    "subcategory": "Team environments",
+    "category": "Amplify CLI",
+    "title": "Commands"
+  },
+  "/cli/usage/lambda-triggers": {
+    "page": "/cli/usage/lambda-triggers",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI",
+    "title": "Lambda Triggers"
+  },
+  "/cli/usage/mock": {
+    "page": "/cli/usage/mock",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI",
+    "title": "Mocking and testing"
+  },
+  "/cli/usage/containers": {
+    "page": "/cli/usage/containers",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI",
+    "title": "Serverless containers"
+  },
+  "/cli/usage/export-to-cdk": {
+    "page": "/cli/usage/export-to-cdk",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI",
+    "title": "Export Amplify project to CDK"
+  },
+  "/cli/usage/headless": {
+    "page": "/cli/usage/headless",
+    "subcategory": "Advanced workflows",
+    "category": "Amplify CLI",
+    "title": "Headless mode for CI/CD"
+  },
+  "/cli/plugins/plugins": {
+    "page": "/cli/plugins/plugins",
+    "subcategory": "Plugins",
+    "category": "Amplify CLI",
+    "title": "Overview"
+  },
+  "/cli/plugins/architecture": {
+    "page": "/cli/plugins/architecture",
+    "subcategory": "Plugins",
+    "category": "Amplify CLI",
+    "title": "Architecture"
+  },
+  "/cli/plugins/authoring": {
+    "page": "/cli/plugins/authoring",
+    "subcategory": "Plugins",
+    "category": "Amplify CLI",
+    "title": "Authoring a new plugin"
+  },
+  "/cli/migration/transformer-migration": {
+    "page": "/cli/migration/transformer-migration",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "GraphQL Transformer v1 to v2 migration"
+  },
+  "/cli/migration/override": {
+    "page": "/cli/migration/override",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "Override feature enablement migration"
+  },
+  "/cli/migration/lambda-node-version-update": {
+    "page": "/cli/migration/lambda-node-version-update",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "Node Version Update"
+  },
+  "/cli/migration/lambda-layers-update": {
+    "page": "/cli/migration/lambda-layers-update",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "Lambda layer behavior updates"
+  },
+  "/cli/migration/cli-auth-signup-changes": {
+    "page": "/cli/migration/cli-auth-signup-changes",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "CLI Auth Signup Changes"
+  },
+  "/cli/migration/list-nullability": {
+    "page": "/cli/migration/list-nullability",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "Amplify Codegen Models - List and list components nullability"
+  },
+  "/cli/migration/cli-migrate-aws-account": {
+    "page": "/cli/migration/cli-migrate-aws-account",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "Migrate project to another AWS account"
+  },
+  "/cli/migration/identity-claim-changes": {
+    "page": "/cli/migration/identity-claim-changes",
+    "subcategory": "Migration & Backwards Compatibility",
+    "category": "Amplify CLI",
+    "title": "GraphQL Transformer @auth identity claim changes"
+  },
+  "/cli/reference/iam": {
+    "page": "/cli/reference/iam",
+    "subcategory": "Reference",
+    "category": "Amplify CLI",
+    "title": "IAM Policy"
+  },
+  "/cli/reference/iam-roles-mfa": {
+    "page": "/cli/reference/iam-roles-mfa",
+    "subcategory": "Reference",
+    "category": "Amplify CLI",
+    "title": "IAM Roles & MFA"
+  },
+  "/cli/reference/files": {
+    "page": "/cli/reference/files",
+    "subcategory": "Reference",
+    "category": "Amplify CLI",
+    "title": "Files and Folders"
+  },
+  "/cli/reference/usage-data": {
+    "page": "/cli/reference/usage-data",
+    "subcategory": "Reference",
+    "category": "Amplify CLI",
+    "title": "Usage Data in Amplify CLI"
+  },
+  "/cli/reference/diagnose": {
+    "page": "/cli/reference/diagnose",
+    "subcategory": "Reference",
+    "category": "Amplify CLI",
+    "title": "Diagnose"
+  },
+  "/cli/reference/feature-flags": {
+    "page": "/cli/reference/feature-flags",
+    "subcategory": "Reference",
+    "category": "Amplify CLI",
+    "title": "Feature Flags"
+  },
+  "/cli-legacy/graphql-transformer/overview": {
+    "page": "/cli-legacy/graphql-transformer/overview",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Overview"
+  },
+  "/cli-legacy/graphql-transformer/directives": {
+    "page": "/cli-legacy/graphql-transformer/directives",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Directives"
+  },
+  "/cli-legacy/graphql-transformer/model": {
+    "page": "/cli-legacy/graphql-transformer/model",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Define your model types"
+  },
+  "/cli-legacy/graphql-transformer/key": {
+    "page": "/cli-legacy/graphql-transformer/key",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Index your data with keys"
+  },
+  "/cli-legacy/graphql-transformer/auth": {
+    "page": "/cli-legacy/graphql-transformer/auth",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Setup authorization rules"
+  },
+  "/cli-legacy/graphql-transformer/connection": {
+    "page": "/cli-legacy/graphql-transformer/connection",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Add relationships between types"
+  },
+  "/cli-legacy/graphql-transformer/function": {
+    "page": "/cli-legacy/graphql-transformer/function",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Configure Lambda resolvers"
+  },
+  "/cli-legacy/graphql-transformer/http": {
+    "page": "/cli-legacy/graphql-transformer/http",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Configure HTTP resolvers"
+  },
+  "/cli-legacy/graphql-transformer/predictions": {
+    "page": "/cli-legacy/graphql-transformer/predictions",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Connect machine learning services"
+  },
+  "/cli-legacy/graphql-transformer/searchable": {
+    "page": "/cli-legacy/graphql-transformer/searchable",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Make your data searchable"
+  },
+  "/cli-legacy/graphql-transformer/versioned": {
+    "page": "/cli-legacy/graphql-transformer/versioned",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Versioning and conflict resolution"
+  },
+  "/cli-legacy/graphql-transformer/dataaccess": {
+    "page": "/cli-legacy/graphql-transformer/dataaccess",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Data access patterns"
+  },
+  "/cli-legacy/graphql-transformer/storage": {
+    "page": "/cli-legacy/graphql-transformer/storage",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "GraphQL transform and Storage"
+  },
+  "/cli-legacy/graphql-transformer/relational": {
+    "page": "/cli-legacy/graphql-transformer/relational",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Relational Databases"
+  },
+  "/cli-legacy/graphql-transformer/codegen": {
+    "page": "/cli-legacy/graphql-transformer/codegen",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Client code generation"
+  },
+  "/cli-legacy/graphql-transformer/resolvers": {
+    "page": "/cli-legacy/graphql-transformer/resolvers",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Overwrite & customize resolvers"
+  },
+  "/cli-legacy/graphql-transformer/config-params": {
+    "page": "/cli-legacy/graphql-transformer/config-params",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Configurable Parameters"
+  },
+  "/cli-legacy/graphql-transformer/examples": {
+    "page": "/cli-legacy/graphql-transformer/examples",
+    "subcategory": "API (GraphQL)",
+    "category": "Amplify CLI (Legacy)",
+    "title": "Examples"
+  },
+  "/start/q/integration/js": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/react": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/react-native": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/angular": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/vue": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/next": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/android": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/ios": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/ionic": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/q/integration/flutter": {
+    "page": "/start/q/integration/[integration]",
+    "category": "Getting started",
+    "title": "Getting started"
+  },
+  "/start/getting-started/installation/q/integration/js": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/react": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/react-native": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/angular": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/vue": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/next": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/android": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/ios": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/ionic": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/installation/q/integration/flutter": {
+    "page": "/start/getting-started/installation/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Prerequisites"
+  },
+  "/start/getting-started/setup/q/integration/js": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/react": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/react-native": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/angular": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/vue": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/next": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/android": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/ios": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/ionic": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/setup/q/integration/flutter": {
+    "page": "/start/getting-started/setup/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Set up fullstack project"
+  },
+  "/start/getting-started/generate-model/q/integration/android": {
+    "page": "/start/getting-started/generate-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Generate model files"
+  },
+  "/start/getting-started/generate-model/q/integration/ios": {
+    "page": "/start/getting-started/generate-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Generate model files"
+  },
+  "/start/getting-started/generate-model/q/integration/flutter": {
+    "page": "/start/getting-started/generate-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Generate model files"
+  },
+  "/start/getting-started/generate-model/q/integration/react-native": {
+    "page": "/start/getting-started/generate-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Generate model files"
+  },
+  "/start/getting-started/integrate/q/integration/android": {
+    "page": "/start/getting-started/integrate/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Integrate your app"
+  },
+  "/start/getting-started/integrate/q/integration/ios": {
+    "page": "/start/getting-started/integrate/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Integrate your app"
+  },
+  "/start/getting-started/integrate/q/integration/flutter": {
+    "page": "/start/getting-started/integrate/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Integrate your app"
+  },
+  "/start/getting-started/integrate/q/integration/react-native": {
+    "page": "/start/getting-started/integrate/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Integrate your app"
+  },
+  "/start/getting-started/add-api/q/integration/android": {
+    "page": "/start/getting-started/add-api/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect to the cloud"
+  },
+  "/start/getting-started/add-api/q/integration/ios": {
+    "page": "/start/getting-started/add-api/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect to the cloud"
+  },
+  "/start/getting-started/add-api/q/integration/flutter": {
+    "page": "/start/getting-started/add-api/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect to the cloud"
+  },
+  "/start/getting-started/add-api/q/integration/react-native": {
+    "page": "/start/getting-started/add-api/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect to the cloud"
+  },
+  "/start/getting-started/data-model/q/integration/js": {
+    "page": "/start/getting-started/data-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect API and database to the app"
+  },
+  "/start/getting-started/data-model/q/integration/react": {
+    "page": "/start/getting-started/data-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect API and database to the app"
+  },
+  "/start/getting-started/data-model/q/integration/angular": {
+    "page": "/start/getting-started/data-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect API and database to the app"
+  },
+  "/start/getting-started/data-model/q/integration/vue": {
+    "page": "/start/getting-started/data-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect API and database to the app"
+  },
+  "/start/getting-started/data-model/q/integration/next": {
+    "page": "/start/getting-started/data-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect API and database to the app"
+  },
+  "/start/getting-started/data-model/q/integration/ionic": {
+    "page": "/start/getting-started/data-model/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Connect API and database to the app"
+  },
+  "/start/getting-started/auth/q/integration/react": {
+    "page": "/start/getting-started/auth/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Add authentication"
+  },
+  "/start/getting-started/auth/q/integration/angular": {
+    "page": "/start/getting-started/auth/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Add authentication"
+  },
+  "/start/getting-started/auth/q/integration/vue": {
+    "page": "/start/getting-started/auth/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Add authentication"
+  },
+  "/start/getting-started/auth/q/integration/ionic": {
+    "page": "/start/getting-started/auth/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Add authentication"
+  },
+  "/start/getting-started/hosting/q/integration/js": {
+    "page": "/start/getting-started/hosting/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Deploy and host app"
+  },
+  "/start/getting-started/hosting/q/integration/react": {
+    "page": "/start/getting-started/hosting/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Deploy and host app"
+  },
+  "/start/getting-started/hosting/q/integration/angular": {
+    "page": "/start/getting-started/hosting/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Deploy and host app"
+  },
+  "/start/getting-started/hosting/q/integration/vue": {
+    "page": "/start/getting-started/hosting/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Deploy and host app"
+  },
+  "/start/getting-started/hosting/q/integration/next": {
+    "page": "/start/getting-started/hosting/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Deploy and host app"
+  },
+  "/start/getting-started/hosting/q/integration/ionic": {
+    "page": "/start/getting-started/hosting/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Deploy and host app"
+  },
+  "/start/getting-started/nextsteps/q/integration/js": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/react": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/react-native": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/angular": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/vue": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/next": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/android": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/ios": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/ionic": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/getting-started/nextsteps/q/integration/flutter": {
+    "page": "/start/getting-started/nextsteps/q/integration/[integration]",
+    "subcategory": "Tutorial",
+    "category": "Getting started",
+    "title": "Next steps"
+  },
+  "/start/sample-apps/todo-app/q/integration/android": {
+    "page": "/start/sample-apps/todo-app/q/integration/[integration]",
+    "subcategory": "Sample Apps",
+    "category": "Getting started",
+    "title": "ToDo App"
+  },
+  "/console/adminui/start": {
+    "page": "/console/adminui/start",
+    "subcategory": "Basics",
+    "category": "Amplify Studio",
+    "title": "Getting started"
+  },
+  "/console/adminui/extend-cli": {
+    "page": "/console/adminui/extend-cli",
+    "subcategory": "Basics",
+    "category": "Amplify Studio",
+    "title": "Extend with the Amplify CLI"
+  },
+  "/console/adminui/access-management": {
+    "page": "/console/adminui/access-management",
+    "subcategory": "Basics",
+    "category": "Amplify Studio",
+    "title": "Manage team access"
+  },
+  "/console/adminui/custom-domain": {
+    "page": "/console/adminui/custom-domain",
+    "subcategory": "Basics",
+    "category": "Amplify Studio",
+    "title": "Custom domains"
+  },
+  "/console/tutorial/buildui": {
+    "page": "/console/tutorial/buildui",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio",
+    "title": "Build UI"
+  },
+  "/console/tutorial/data": {
+    "page": "/console/tutorial/data",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio",
+    "title": "Model database"
+  },
+  "/console/tutorial/bindui": {
+    "page": "/console/tutorial/bindui",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio",
+    "title": "Bind UI to data"
+  },
+  "/console/tutorial/collections": {
+    "page": "/console/tutorial/collections",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio",
+    "title": "Collections"
+  },
+  "/console/tutorial/code": {
+    "page": "/console/tutorial/code",
+    "subcategory": "Tutorial",
+    "category": "Amplify Studio",
+    "title": "Write React code"
+  },
+  "/console/uibuilder/figmatocode": {
+    "page": "/console/uibuilder/figmatocode",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Figma to code"
+  },
+  "/console/uibuilder/databinding": {
+    "page": "/console/uibuilder/databinding",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Data binding"
+  },
+  "/console/uibuilder/eventhandling": {
+    "page": "/console/uibuilder/eventhandling",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "UI event handler"
+  },
+  "/console/uibuilder/collections": {
+    "page": "/console/uibuilder/collections",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Collections"
+  },
+  "/console/uibuilder/slots": {
+    "page": "/console/uibuilder/slots",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Component slots"
+  },
+  "/console/uibuilder/theming": {
+    "page": "/console/uibuilder/theming",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Theming"
+  },
+  "/console/uibuilder/responsive": {
+    "page": "/console/uibuilder/responsive",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Responsive components"
+  },
+  "/console/uibuilder/override": {
+    "page": "/console/uibuilder/override",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Extend with code"
+  },
+  "/console/uibuilder/bestpractices": {
+    "page": "/console/uibuilder/bestpractices",
+    "subcategory": "UI development (React)",
+    "category": "Amplify Studio",
+    "title": "Figma-to-Code best practices"
+  },
+  "/console/data/data-model": {
+    "page": "/console/data/data-model",
+    "subcategory": "Data",
+    "category": "Amplify Studio",
+    "title": "Data modeling"
+  },
+  "/console/data/relationships": {
+    "page": "/console/data/relationships",
+    "subcategory": "Data",
+    "category": "Amplify Studio",
+    "title": "Relationships"
+  },
+  "/console/data/content-management": {
+    "page": "/console/data/content-management",
+    "subcategory": "Data",
+    "category": "Amplify Studio",
+    "title": "Content management"
+  },
+  "/console/auth/authentication": {
+    "page": "/console/auth/authentication",
+    "subcategory": "Authentication",
+    "category": "Amplify Studio",
+    "title": "Authentication"
+  },
+  "/console/auth/user-management": {
+    "page": "/console/auth/user-management",
+    "subcategory": "Authentication",
+    "category": "Amplify Studio",
+    "title": "Manage authentication for users and groups"
+  },
+  "/console/auth/import": {
+    "page": "/console/auth/import",
+    "subcategory": "Authentication",
+    "category": "Amplify Studio",
+    "title": "Import Amazon Cognito resources"
+  },
+  "/console/authz/authorization": {
+    "page": "/console/authz/authorization",
+    "subcategory": "Authorization",
+    "category": "Amplify Studio",
+    "title": "Overview"
+  },
+  "/console/authz/permissions": {
+    "page": "/console/authz/permissions",
+    "subcategory": "Authorization",
+    "category": "Amplify Studio",
+    "title": "Access control"
+  },
+  "/console/storage/file-browser": {
+    "page": "/console/storage/file-browser",
+    "subcategory": "Storage",
+    "category": "Amplify Studio",
+    "title": "File browser"
+  },
+  "/console/storage/file-storage": {
+    "page": "/console/storage/file-storage",
+    "subcategory": "Storage",
+    "category": "Amplify Studio",
+    "title": "File storage"
+  },
+  "/guides/q/platform/js": {
+    "page": "/guides/q/platform/[platform]",
+    "category": "Guides",
+    "title": "Guides"
+  },
+  "/guides/q/platform/android": {
+    "page": "/guides/q/platform/[platform]",
+    "category": "Guides",
+    "title": "Guides"
+  },
+  "/guides/q/platform/ios": {
+    "page": "/guides/q/platform/[platform]",
+    "category": "Guides",
+    "title": "Guides"
+  },
+  "/guides/q/platform/flutter": {
+    "page": "/guides/q/platform/[platform]",
+    "category": "Guides",
+    "title": "Guides"
+  },
+  "/guides/api-graphql/image-and-file-uploads/q/platform/js": {
+    "page": "/guides/api-graphql/image-and-file-uploads/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to Manage Image & File Uploads & Downloads"
+  },
+  "/guides/api-graphql/building-a-form-api/q/platform/js": {
+    "page": "/guides/api-graphql/building-a-form-api/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "Building a Form API with GraphQL"
+  },
+  "/guides/api-graphql/building-a-form-api/q/platform/android": {
+    "page": "/guides/api-graphql/building-a-form-api/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "Building a Form API with GraphQL"
+  },
+  "/guides/api-graphql/building-a-form-api/q/platform/ios": {
+    "page": "/guides/api-graphql/building-a-form-api/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "Building a Form API with GraphQL"
+  },
+  "/guides/api-graphql/subscriptions-by-id/q/platform/js": {
+    "page": "/guides/api-graphql/subscriptions-by-id/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to create GraphQL subscriptions by id"
+  },
+  "/guides/api-graphql/subscriptions-by-id/q/platform/android": {
+    "page": "/guides/api-graphql/subscriptions-by-id/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to create GraphQL subscriptions by id"
+  },
+  "/guides/api-graphql/subscriptions-by-id/q/platform/ios": {
+    "page": "/guides/api-graphql/subscriptions-by-id/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to create GraphQL subscriptions by id"
+  },
+  "/guides/api-graphql/subscriptions-by-id/q/platform/flutter": {
+    "page": "/guides/api-graphql/subscriptions-by-id/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to create GraphQL subscriptions by id"
+  },
+  "/guides/api-graphql/graphql-pagination/q/platform/js": {
+    "page": "/guides/api-graphql/graphql-pagination/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "GraphQL pagination"
+  },
+  "/guides/api-graphql/graphql-pagination/q/platform/android": {
+    "page": "/guides/api-graphql/graphql-pagination/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "GraphQL pagination"
+  },
+  "/guides/api-graphql/graphql-pagination/q/platform/ios": {
+    "page": "/guides/api-graphql/graphql-pagination/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "GraphQL pagination"
+  },
+  "/guides/api-graphql/query-with-sorting/q/platform/js": {
+    "page": "/guides/api-graphql/query-with-sorting/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "GraphQL query with sorting by date"
+  },
+  "/guides/api-graphql/query-with-sorting/q/platform/android": {
+    "page": "/guides/api-graphql/query-with-sorting/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "GraphQL query with sorting by date"
+  },
+  "/guides/api-graphql/query-with-sorting/q/platform/ios": {
+    "page": "/guides/api-graphql/query-with-sorting/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "GraphQL query with sorting by date"
+  },
+  "/guides/api-graphql/lambda-resolvers/q/platform/js": {
+    "page": "/guides/api-graphql/lambda-resolvers/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to use Lambda GraphQL Resolvers"
+  },
+  "/guides/api-graphql/lambda-resolvers/q/platform/android": {
+    "page": "/guides/api-graphql/lambda-resolvers/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to use Lambda GraphQL Resolvers"
+  },
+  "/guides/api-graphql/lambda-resolvers/q/platform/ios": {
+    "page": "/guides/api-graphql/lambda-resolvers/q/platform/[platform]",
+    "subcategory": "API (GraphQL)",
+    "category": "Guides",
+    "title": "How to use Lambda GraphQL Resolvers"
+  },
+  "/guides/api-rest/node-api/q/platform/js": {
+    "page": "/guides/api-rest/node-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "NodeJS API"
+  },
+  "/guides/api-rest/node-api/q/platform/android": {
+    "page": "/guides/api-rest/node-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "NodeJS API"
+  },
+  "/guides/api-rest/node-api/q/platform/ios": {
+    "page": "/guides/api-rest/node-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "NodeJS API"
+  },
+  "/guides/api-rest/express-server/q/platform/js": {
+    "page": "/guides/api-rest/express-server/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Express Server"
+  },
+  "/guides/api-rest/express-server/q/platform/android": {
+    "page": "/guides/api-rest/express-server/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Express Server"
+  },
+  "/guides/api-rest/express-server/q/platform/ios": {
+    "page": "/guides/api-rest/express-server/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Express Server"
+  },
+  "/guides/api-rest/go-api/q/platform/js": {
+    "page": "/guides/api-rest/go-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Go API"
+  },
+  "/guides/api-rest/go-api/q/platform/android": {
+    "page": "/guides/api-rest/go-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Go API"
+  },
+  "/guides/api-rest/go-api/q/platform/ios": {
+    "page": "/guides/api-rest/go-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Go API"
+  },
+  "/guides/api-rest/python-api/q/platform/js": {
+    "page": "/guides/api-rest/python-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Python API"
+  },
+  "/guides/api-rest/python-api/q/platform/android": {
+    "page": "/guides/api-rest/python-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Python API"
+  },
+  "/guides/api-rest/python-api/q/platform/ios": {
+    "page": "/guides/api-rest/python-api/q/platform/[platform]",
+    "subcategory": "API (REST)",
+    "category": "Guides",
+    "title": "Python API"
+  },
+  "/guides/authentication/custom-auth-flow/q/platform/js": {
+    "page": "/guides/authentication/custom-auth-flow/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Guides",
+    "title": "Creating a custom authentication flow"
+  },
+  "/guides/authentication/email-only-authentication/q/platform/js": {
+    "page": "/guides/authentication/email-only-authentication/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Guides",
+    "title": "Email-only sign up and sign in"
+  },
+  "/guides/authentication/listening-for-auth-events/q/platform/js": {
+    "page": "/guides/authentication/listening-for-auth-events/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Guides",
+    "title": "Listening for authentication events"
+  },
+  "/guides/authentication/managing-user-attributes/q/platform/js": {
+    "page": "/guides/authentication/managing-user-attributes/q/platform/[platform]",
+    "subcategory": "Authentication",
+    "category": "Guides",
+    "title": "Managing user attributes"
+  },
+  "/guides/datastore/parallel-processing/q/platform/ios": {
+    "page": "/guides/datastore/parallel-processing/q/platform/[platform]",
+    "subcategory": "Datastore",
+    "category": "Guides",
+    "title": "Parallel Processing"
+  },
+  "/guides/functions/appsync-operations-to-lambda-layer/q/platform/js": {
+    "page": "/guides/functions/appsync-operations-to-lambda-layer/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Exporting AppSync operations to a Lambda layer for easy reuse"
+  },
+  "/guides/functions/appsync-operations-to-lambda-layer/q/platform/android": {
+    "page": "/guides/functions/appsync-operations-to-lambda-layer/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Exporting AppSync operations to a Lambda layer for easy reuse"
+  },
+  "/guides/functions/appsync-operations-to-lambda-layer/q/platform/ios": {
+    "page": "/guides/functions/appsync-operations-to-lambda-layer/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Exporting AppSync operations to a Lambda layer for easy reuse"
+  },
+  "/guides/functions/connecting-a-rest-api/q/platform/js": {
+    "page": "/guides/functions/connecting-a-rest-api/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Connecting a REST API to a Lambda function"
+  },
+  "/guides/functions/connecting-a-rest-api/q/platform/android": {
+    "page": "/guides/functions/connecting-a-rest-api/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Connecting a REST API to a Lambda function"
+  },
+  "/guides/functions/connecting-a-rest-api/q/platform/ios": {
+    "page": "/guides/functions/connecting-a-rest-api/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Connecting a REST API to a Lambda function"
+  },
+  "/guides/functions/integrating-dynamodb-with-lambda/q/platform/js": {
+    "page": "/guides/functions/integrating-dynamodb-with-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Integrating DynamoDB with Lambda"
+  },
+  "/guides/functions/integrating-dynamodb-with-lambda/q/platform/android": {
+    "page": "/guides/functions/integrating-dynamodb-with-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Integrating DynamoDB with Lambda"
+  },
+  "/guides/functions/integrating-dynamodb-with-lambda/q/platform/ios": {
+    "page": "/guides/functions/integrating-dynamodb-with-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Integrating DynamoDB with Lambda"
+  },
+  "/guides/functions/dynamodb-from-js-lambda/q/platform/js": {
+    "page": "/guides/functions/dynamodb-from-js-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB from Lambda in Node.js"
+  },
+  "/guides/functions/dynamodb-from-js-lambda/q/platform/android": {
+    "page": "/guides/functions/dynamodb-from-js-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB from Lambda in Node.js"
+  },
+  "/guides/functions/dynamodb-from-js-lambda/q/platform/ios": {
+    "page": "/guides/functions/dynamodb-from-js-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB from Lambda in Node.js"
+  },
+  "/guides/functions/dynamodb-from-python-lambda/q/platform/js": {
+    "page": "/guides/functions/dynamodb-from-python-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB from a Lambda function in Python"
+  },
+  "/guides/functions/dynamodb-from-python-lambda/q/platform/android": {
+    "page": "/guides/functions/dynamodb-from-python-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB from a Lambda function in Python"
+  },
+  "/guides/functions/dynamodb-from-python-lambda/q/platform/ios": {
+    "page": "/guides/functions/dynamodb-from-python-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB from a Lambda function in Python"
+  },
+  "/guides/functions/graphql-from-lambda/q/platform/js": {
+    "page": "/guides/functions/graphql-from-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling GraphQL API from a Lambda function"
+  },
+  "/guides/functions/graphql-from-lambda/q/platform/android": {
+    "page": "/guides/functions/graphql-from-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling GraphQL API from a Lambda function"
+  },
+  "/guides/functions/graphql-from-lambda/q/platform/ios": {
+    "page": "/guides/functions/graphql-from-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling GraphQL API from a Lambda function"
+  },
+  "/guides/functions/graphql-server-in-lambda/q/platform/js": {
+    "page": "/guides/functions/graphql-server-in-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "GraphQL Server in Lambda"
+  },
+  "/guides/functions/graphql-server-in-lambda/q/platform/android": {
+    "page": "/guides/functions/graphql-server-in-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "GraphQL Server in Lambda"
+  },
+  "/guides/functions/graphql-server-in-lambda/q/platform/ios": {
+    "page": "/guides/functions/graphql-server-in-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "GraphQL Server in Lambda"
+  },
+  "/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/js": {
+    "page": "/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB using AWS Cognito triggers"
+  },
+  "/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/android": {
+    "page": "/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB using AWS Cognito triggers"
+  },
+  "/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/ios": {
+    "page": "/guides/functions/cognito-trigger-lambda-dynamodb/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Calling DynamoDB using AWS Cognito triggers"
+  },
+  "/guides/functions/configuring-lambda/q/platform/js": {
+    "page": "/guides/functions/configuring-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Configuring Lambda function settings"
+  },
+  "/guides/functions/configuring-lambda/q/platform/android": {
+    "page": "/guides/functions/configuring-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Configuring Lambda function settings"
+  },
+  "/guides/functions/configuring-lambda/q/platform/ios": {
+    "page": "/guides/functions/configuring-lambda/q/platform/[platform]",
+    "subcategory": "Functions",
+    "category": "Guides",
+    "title": "Configuring Lambda function settings"
+  },
+  "/guides/hosting/git-based-deployments/q/platform/js": {
+    "page": "/guides/hosting/git-based-deployments/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Git-based deployments"
+  },
+  "/guides/hosting/local-deployments/q/platform/js": {
+    "page": "/guides/hosting/local-deployments/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Local deployments"
+  },
+  "/guides/hosting/custom-domains/q/platform/js": {
+    "page": "/guides/hosting/custom-domains/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Custom Domains"
+  },
+  "/guides/hosting/password-protected-deployments/q/platform/js": {
+    "page": "/guides/hosting/password-protected-deployments/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Password protected deployments"
+  },
+  "/guides/hosting/pull-request-previews/q/platform/js": {
+    "page": "/guides/hosting/pull-request-previews/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Pull-request previews"
+  },
+  "/guides/hosting/gatsby/q/platform/js": {
+    "page": "/guides/hosting/gatsby/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Gatsby"
+  },
+  "/guides/hosting/nextjs/q/platform/js": {
+    "page": "/guides/hosting/nextjs/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Next.js"
+  },
+  "/guides/hosting/gridsome/q/platform/js": {
+    "page": "/guides/hosting/gridsome/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Gridsome"
+  },
+  "/guides/hosting/nuxt/q/platform/js": {
+    "page": "/guides/hosting/nuxt/q/platform/[platform]",
+    "subcategory": "Hosting",
+    "category": "Guides",
+    "title": "Nuxt.js"
+  }
+}

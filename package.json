@@ -89,7 +89,8 @@
   },
   "jest": {
     "roots": [
-      "<rootDir>/src"
+      "<rootDir>/src",
+      "<rootDir>/tasks"
     ],
     "transform": {
       "^.+\\.(ts|tsx|js)$": [
@@ -125,7 +126,6 @@
     "amplify:submissionsLambda": "cd amplify/backend/function/submissionsLambda/src && yarn install && yarn build && yarn test",
     "build-support-config": "chmod +x build_support/create-awsconfig.sh && ./build_support/create-awsconfig.sh",
     "prepare": "husky install",
-    "prebuild:algolia": "yarn build:prod",
     "build:algolia": "node tasks/build-algolia-search.mjs"
   }
 }
