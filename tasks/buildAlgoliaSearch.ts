@@ -1,5 +1,9 @@
 import { visit } from 'unist-util-visit';
 
+// flatmap
+
+export function buildPlatformPathsFromDirectory() {}
+
 // custom utils functions for use with remark
 const flattenNode = (
   node: any,
