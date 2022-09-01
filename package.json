@@ -87,30 +87,6 @@
   "resolutions": {
     "**/trim": "0.0.3"
   },
-  "jest": {
-    "roots": [
-      "<rootDir>/src",
-      "<rootDir>/tasks"
-    ],
-    "transform": {
-      "^.+\\.(ts|tsx|js)$": [
-        "babel-jest",
-        {
-          "presets": [
-            "next/babel"
-          ]
-        }
-      ]
-    },
-    "testPathIgnorePatterns": [
-      "capi",
-      ".next",
-      "client"
-    ],
-    "setupFilesAfterEnv": [
-      "<rootDir>/jest.setup.js"
-    ]
-  },
   "scripts": {
     "clean": "rm -rf node_modules yarn.lock",
     "refresh": "yarn clean && yarn",
