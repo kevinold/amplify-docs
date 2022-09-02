@@ -1,16 +1,20 @@
+import { identity, mapKeys, pipe } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
+//import amplifyDocsDirectory from '../src/directory/directory.js';
 
 // flatmap
 
-export function buildPlatformPathsFromDirectory() {
-  return {
+export function buildPlatformPathsFromDirectory(amplifyDocsDirectory) {
+  return pipe(mapKeys(identity))(amplifyDocsDirectory);
+
+  /*return {
     '/lib/devpreview/getting-started/q/platform/ios': {
       page: '/lib/devpreview/getting-started/q/platform/[platform]',
       subcategory: 'New! Amplify Mobile (Developer Preview)',
       category: 'Amplify Libraries',
       title: 'Getting started'
     }
-  };
+  };*/
 }
 
 // custom utils functions for use with remark
