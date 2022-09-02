@@ -1,17 +1,15 @@
-import { get } from 'lodash';
-import { pipe, transform } from 'lodash/fp';
+import { forEach, pipe } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
 
 // flatmap
+function processPlatform(platform) {
+  //console.log(platform);
+  return platform;
+}
 
 export const buildPlatformPathsFromDirectory = (amplifyDocsDirectory) =>
-  pipe(
-    transform((acc, o) => {
-      console.log({ o });
-      acc.push(get(o, 'productRoot.route'));
-    }, [])
-  )(amplifyDocsDirectory);
+  pipe(forEach(processPlatform))(amplifyDocsDirectory);
 
 /*return {
     '/lib/devpreview/getting-started/q/platform/ios': {

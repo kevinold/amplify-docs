@@ -123,6 +123,7 @@
     "refresh": "yarn clean && yarn",
     "task": "ts-node tasks",
     "test": "jest",
+    "test:watch": "jest --watch",
     "spellcheck": "cspell \"src/**/*.mdx\"",
     "spellcheck-diff": "git diff --name-only --cached | awk \"/src.*\\.mdx/{print}\" | npx cspell --no-must-find-files --file-list stdin",
     "dev": "yarn build-support-config && next dev",
