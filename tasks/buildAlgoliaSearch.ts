@@ -1,13 +1,19 @@
-import { identity, mapKeys, pipe } from 'lodash/fp';
+import { get } from 'lodash';
+import { pipe, transform } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
 
 // flatmap
 
-export function buildPlatformPathsFromDirectory(amplifyDocsDirectory) {
-  return pipe(mapKeys(identity))(amplifyDocsDirectory);
+export const buildPlatformPathsFromDirectory = (amplifyDocsDirectory) =>
+  pipe(
+    transform((acc, o) => {
+      console.log({ o });
+      acc.push(get(o, 'productRoot.route'));
+    }, [])
+  )(amplifyDocsDirectory);
 
-  /*return {
+/*return {
     '/lib/devpreview/getting-started/q/platform/ios': {
       page: '/lib/devpreview/getting-started/q/platform/[platform]',
       subcategory: 'New! Amplify Mobile (Developer Preview)',
@@ -15,7 +21,6 @@ export function buildPlatformPathsFromDirectory(amplifyDocsDirectory) {
       title: 'Getting started'
     }
   };*/
-}
 
 // custom utils functions for use with remark
 const flattenNode = (
