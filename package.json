@@ -105,10 +105,16 @@
     "testPathIgnorePatterns": [
       "capi",
       ".next",
-      "client"
+      "client",
+      "<rootDir>/node_modules/",
+      "<rootDir>/.next/"
     ],
     "setupFilesAfterEnv": [
       "<rootDir>/jest.setup.js"
+    ],
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\](?!unist-util-visit|unist-util-is).+\\.(js|jsx|mjs|cjs|ts|tsx)$",
+      "^.+\\.module\\.(css|sass|scss)$"
     ]
   },
   "scripts": {
