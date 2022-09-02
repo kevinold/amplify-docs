@@ -45,7 +45,7 @@
     "remark-mdx-searchable": "^0.1.3",
     "theme-ui": "^0.7.5",
     "unified": "^10.1.2",
-    "unist-util-visit": "^4.1.0",
+    "unist-util-visit": "^4.1.1",
     "validator": "^13.7.0"
   },
   "devDependencies": {
