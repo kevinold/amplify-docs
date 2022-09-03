@@ -1,24 +1,46 @@
-import { forEach, pipe } from 'lodash/fp';
+import { get, mapValues, pipe } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
 
+// export const converge = overArgs(compose, [spread, over])
+
 // flatmap
-function processPlatform(platform) {
-  //console.log(platform);
-  return platform;
-}
+const processPlatform = pipe(get('productRoot'));
 
 export const buildPlatformPathsFromDirectory = (amplifyDocsDirectory) =>
-  pipe(forEach(processPlatform))(amplifyDocsDirectory);
+  pipe(mapValues(processPlatform))(amplifyDocsDirectory);
 
-/*return {
-    '/lib/devpreview/getting-started/q/platform/ios': {
-      page: '/lib/devpreview/getting-started/q/platform/[platform]',
-      subcategory: 'New! Amplify Mobile (Developer Preview)',
-      category: 'Amplify Libraries',
-      title: 'Getting started'
+/*
+{
+  lib: {
+    productRoot: {
+      title: 'Amplify Libraries',
+      route: '/lib'
+    },
+    items: {
+      devpreview: {
+        title: 'New! Amplify Mobile (Developer Preview)',
+        items: [
+          {
+            title: 'Getting started',
+            route: '/lib/devpreview/getting-started',
+            filters: ['ios', 'android']
+          }
+        ]
+      },
     }
-  };*/
+  }
+}
+
+{
+  '/lib/devpreview/getting-started/q/platform/ios': {
+    page: '/lib/devpreview/getting-started/q/platform/[platform]',
+    subcategory: 'New! Amplify Mobile (Developer Preview)',
+    category: 'Amplify Libraries',
+    title: 'Getting started'
+  }
+};
+*/
 
 // custom utils functions for use with remark
 const flattenNode = (

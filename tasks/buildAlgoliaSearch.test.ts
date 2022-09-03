@@ -5,8 +5,8 @@ test('buildPlatformPathsFromDirectory should contain the correct path objects', 
   const platformPathsWithMetadata = buildPlatformPathsFromDirectory(
     amplifyDocsDirectory
   );
-  expect(Object.keys(platformPathsWithMetadata)).toContain('lib');
-  // expect(Object.keys(platformPathsWithMetadata)).toContain(
-  //   '/lib/devpreview/getting-started/q/platform/ios'
-  // );
+  //expect(Object.keys(platformPathsWithMetadata)).toContain('lib');
+  expect(platformPathsWithMetadata).toContain(
+    '/lib/devpreview/getting-started/q/platform/ios'
+  );
 });
