@@ -1,8 +1,16 @@
-import { get, mapValues, pipe } from 'lodash/fp';
+import {
+  compose,
+  get,
+  mapValues,
+  over,
+  overArgs,
+  pipe,
+  spread
+} from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
 
-// export const converge = overArgs(compose, [spread, over])
+export const converge = overArgs(compose, [spread, over]);
 
 // flatmap
 const processPlatform = pipe(get('productRoot'));
