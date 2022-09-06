@@ -3,6 +3,7 @@ import {
   get,
   head,
   mapValues,
+  merge,
   over,
   overArgs,
   pick,
@@ -23,17 +24,18 @@ const platformTitleToCategory = pipe(
   pick('productRoot.title'),
   values,
   head,
-  debug
+  get('title'),
+  (t) => {
+    return { category: t };
+  }
 );
 const processPlatform = pipe(
-  //converge(identity, [get('productRoot.title'), processPlatformItems])
-  platformTitleToCategory
+  converge(merge, [platformTitleToCategory, processPlatformItems])
   //debug
 );
 
 export const buildPlatformPathsFromDirectory = pipe(
   mapValues(processPlatform)
-  //set('theKey', 'theValue')
   //identity
 );
 
