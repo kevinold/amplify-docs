@@ -1,22 +1,41 @@
 import {
   compose,
   get,
+  head,
   mapValues,
   over,
   overArgs,
+  pick,
   pipe,
-  spread
+  spread,
+  tap,
+  values
 } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
+// flatmap
 
 export const converge = overArgs(compose, [spread, over]);
+const debug = tap(console.log);
 
-// flatmap
-const processPlatform = pipe(get('productRoot'));
+const processPlatformItems = get('items');
+const platformTitleToCategory = pipe(
+  pick('productRoot.title'),
+  values,
+  head,
+  debug
+);
+const processPlatform = pipe(
+  //converge(identity, [get('productRoot.title'), processPlatformItems])
+  platformTitleToCategory
+  //debug
+);
 
-export const buildPlatformPathsFromDirectory = (amplifyDocsDirectory) =>
-  pipe(mapValues(processPlatform))(amplifyDocsDirectory);
+export const buildPlatformPathsFromDirectory = pipe(
+  mapValues(processPlatform)
+  //set('theKey', 'theValue')
+  //identity
+);
 
 /*
 {
