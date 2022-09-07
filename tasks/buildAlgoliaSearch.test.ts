@@ -6,7 +6,22 @@ test('buildPlatformPathsFromDirectory should contain the correct path objects', 
     amplifyDocsDirectory
   );
   //expect(Object.keys(platformPathsWithMetadata)).toContain('lib');
-  expect(platformPathsWithMetadata['lib']).toContain(
-    '/lib/devpreview/getting-started/q/platform/ios'
-  );
+  expect(
+    platformPathsWithMetadata['lib']['devpreview'][
+      '/lib/devpreview/getting-started/q/platform/ios'
+    ]
+  ).toContain({
+    page: '/lib/devpreview/getting-started/q/platform/[platform]',
+    subcategory: 'New! Amplify Mobile (Developer Preview)',
+    category: 'Amplify Libraries',
+    title: 'Getting started'
+  });
+  expect(platformPathsWithMetadata).toContain({
+    '/lib/devpreview/getting-started/q/platform/ios': {
+      page: '/lib/devpreview/getting-started/q/platform/[platform]',
+      subcategory: 'New! Amplify Mobile (Developer Preview)',
+      category: 'Amplify Libraries',
+      title: 'Getting started'
+    }
+  });
 });
