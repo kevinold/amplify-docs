@@ -8,10 +8,12 @@ import {
   overArgs,
   pick,
   pipe,
+  set,
   spread,
   tap,
   transform,
-  values
+  values,
+  __
 } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
@@ -26,7 +28,7 @@ const processPlatformCategories = pipe(
     pipe(
       //debug,
       converge(merge, [
-        pick('title'),
+        pipe(get('title'), set('subcategory', __, {})),
         pipe(
           get('items'),
           transform((r, v, k) => {
@@ -34,9 +36,8 @@ const processPlatformCategories = pipe(
             const filters = get('filters', v);
             //console.log('filters: ', filters);
             filters?.forEach((f) => {
-              r[f] = {
+              r[`${v.route}/q/platform/${f}`] = {
                 title: v.title,
-                key: `${v.route}/q/platform/${f}`,
                 page: `${v.route}/q/platform/[platform]`
               };
             });
@@ -53,9 +54,7 @@ const platformTitleToCategory = pipe(
   values,
   head,
   get('title'),
-  (t) => {
-    return { category: t };
-  }
+  set('category', __, {})
 );
 const processPlatform = pipe(
   converge(merge, [platformTitleToCategory, processPlatformCategories])
