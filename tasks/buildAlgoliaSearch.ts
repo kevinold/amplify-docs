@@ -23,6 +23,7 @@ export const converge = overArgs(compose, [spread, over]);
 const debug = tap(console.log);
 
 const processPlatformCategories = pipe(
+  //debug,
   get('items'),
   mapValues(
     pipe(
@@ -47,9 +48,13 @@ const processPlatformCategories = pipe(
       ])
     )
   )
+  //flatMap((v, k) => console.log('key:', v))
   //debug
+  //mapKeys
+  //get('title')
 );
-const platformTitleToCategory = pipe(
+export const platformTitleToCategory = pipe(
+  //debug,
   pick('productRoot.title'),
   values,
   head,
@@ -57,12 +62,15 @@ const platformTitleToCategory = pipe(
   set('category', __, {})
 );
 const processPlatform = pipe(
+  //debug,
   converge(merge, [platformTitleToCategory, processPlatformCategories])
-  //debug
+  //mapValues((v) => console.log('v: ', v))
+  //mapValues(identity)
 );
 
 export const buildPlatformPathsFromDirectory = pipe(
   mapValues(processPlatform)
+  //values
   //identity
 );
 
