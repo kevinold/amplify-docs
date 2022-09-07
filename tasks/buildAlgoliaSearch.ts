@@ -35,6 +35,7 @@ const processPlatformCategories = pipe(
             //console.log('filters: ', filters);
             filters?.forEach((f) => {
               r[f] = {
+                title: v.title,
                 key: `${v.route}/q/platform/${f}`,
                 page: `${v.route}/q/platform/[platform]`
               };
