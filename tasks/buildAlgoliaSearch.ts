@@ -10,6 +10,7 @@ import {
   pipe,
   spread,
   tap,
+  transform,
   values
 } from 'lodash/fp';
 import { visit } from 'unist-util-visit';
@@ -19,7 +20,33 @@ import { visit } from 'unist-util-visit';
 export const converge = overArgs(compose, [spread, over]);
 const debug = tap(console.log);
 
-const processPlatformItems = get('items');
+const processPlatformCategories = pipe(
+  get('items'),
+  mapValues(
+    pipe(
+      //debug,
+      converge(merge, [
+        get('title'),
+        pipe(
+          get('items'),
+          transform((r, v, k) => {
+            //console.log('v: ', v);
+            const filters = get('filters', v);
+            //console.log('filters: ', filters);
+            filters?.forEach((f) => {
+              r[k] = {
+                f,
+                page: `${v.route}/q/platform/[platform]`
+              };
+            });
+            //r[k] = v;
+          }, {})
+        )
+      ])
+    )
+  )
+  //debug
+);
 const platformTitleToCategory = pipe(
   pick('productRoot.title'),
   values,
@@ -30,7 +57,7 @@ const platformTitleToCategory = pipe(
   }
 );
 const processPlatform = pipe(
-  converge(merge, [platformTitleToCategory, processPlatformItems])
+  converge(merge, [platformTitleToCategory, processPlatformCategories])
   //debug
 );
 
