@@ -26,7 +26,7 @@ const processPlatformCategories = pipe(
     pipe(
       //debug,
       converge(merge, [
-        get('title'),
+        pick('title'),
         pipe(
           get('items'),
           transform((r, v, k) => {
@@ -34,8 +34,8 @@ const processPlatformCategories = pipe(
             const filters = get('filters', v);
             //console.log('filters: ', filters);
             filters?.forEach((f) => {
-              r[k] = {
-                f,
+              r[f] = {
+                key: `${v.route}/q/platform/${f}`,
                 page: `${v.route}/q/platform/[platform]`
               };
             });
