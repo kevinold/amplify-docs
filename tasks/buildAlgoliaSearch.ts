@@ -22,6 +22,11 @@ import { visit } from 'unist-util-visit';
 export const converge = overArgs(compose, [spread, over]);
 const debug = tap(console.log);
 
+export const transformTitleToSubcategory = pipe(
+  get('title'),
+  set('subcategory', __, {})
+);
+
 const processPlatformCategories = pipe(
   //debug,
   get('items'),
@@ -29,7 +34,7 @@ const processPlatformCategories = pipe(
     pipe(
       //debug,
       converge(merge, [
-        pipe(get('title'), set('subcategory', __, {})),
+        transformTitleToSubcategory,
         pipe(
           get('items'),
           transform((r, v, k) => {
