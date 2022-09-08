@@ -56,17 +56,12 @@ const processPlatformCategories = fp.pipe(
   fp.mapValues(
     fp.pipe(
       //debug,
-      //converge(fp.merge, [
       converge(mergeSubcategoryWithCategoryItems, [
         transformTitleToSubcategory,
         transformPlatformCategoryItems
       ])
     )
   )
-  //flatMap((v, k) => console.log('key:', v))
-  //debug
-  //mapKeys
-  //fp.get('title')
 );
 export const transformPlatformCategory = fp.transform((r: {}, v) => {
   console.log('v: ', v);
@@ -96,11 +91,21 @@ export const platformTitleToCategory = fp.pipe(
   fp.get('title'),
   fp.set('category', fp.__, {})
 );
+
+const mergeCategoryWithCategoryItems = ({ category }, categoryItems) =>
+  fp.mapValues((i) => {
+    return fp.mapValues((s) => {
+      return { category, ...s };
+    }, i);
+  }, categoryItems);
+
 const processPlatform = fp.pipe(
   //debug,
-  converge(fp.merge, [platformTitleToCategory, processPlatformCategories])
-  //fp.identity
-  //fp.mapValues(fp.identity)
+  converge(mergeCategoryWithCategoryItems, [
+    platformTitleToCategory,
+    processPlatformCategories
+  ])
+  //fp.mapValues(debug)
 );
 
 export const buildPlatformPathsFromDirectory = fp.pipe(
