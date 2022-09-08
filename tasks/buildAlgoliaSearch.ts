@@ -40,6 +40,19 @@ export const transformPlatformCategoryItems = pipe(
   }, {})
 );
 
+export const transformPlatformCategory = transform((r: {}, v) => {
+  console.log('v: ', v);
+  //console.log('category: ', v.category);
+
+  //console.log('category: ', v.category);
+  // filters?.forEach((f) => {
+  //   r[`${v.route}/q/platform/${f}`] = {
+  //     title: v.title,
+  //     page: `${v.route}/q/platform/[platform]`
+  //   };
+  // });
+}, {});
+
 const processPlatformCategories = pipe(
   //debug,
   get('items'),
@@ -67,13 +80,20 @@ export const platformTitleToCategory = pipe(
 );
 const processPlatform = pipe(
   //debug,
-  converge(merge, [platformTitleToCategory, processPlatformCategories])
-  //mapValues((v) => console.log('v: ', v))
+  converge(merge, [platformTitleToCategory, processPlatformCategories]),
+  transformPlatformCategory
   //mapValues(identity)
 );
 
 export const buildPlatformPathsFromDirectory = pipe(
   mapValues(processPlatform)
+  //forEach((v, k) => console.log('v: ', v, ' k: ', k))
+  //get('cli'),
+  //get('category')
+  //debug
+  //mapKeys(identity)
+  //map((v, k) => console.log('v: ', v, ' k: ', k))
+  //map((v, k) => console.log('v: ', v, ' k: ', k))
   //values
   //identity
 );
