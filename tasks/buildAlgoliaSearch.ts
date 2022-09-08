@@ -1,36 +1,38 @@
-import {
-  compose,
-  get,
-  head,
-  mapValues,
-  merge,
-  over,
-  overArgs,
-  pick,
-  pipe,
-  set,
-  spread,
-  tap,
-  transform,
-  values,
-  __
-} from 'lodash/fp';
+//import {
+//compose,
+//get,
+//head,
+//identity,
+//mapValues,
+//merge,
+//over,
+//overArgs,
+//pick,
+//pipe,
+//set,
+//spread,
+//tap,
+//transform,
+//values,
+//__
+//} from 'lodash/fp';
+import fp from 'lodash/fp';
 import { visit } from 'unist-util-visit';
 //import amplifyDocsDirectory from '../src/directory/directory.js';
 // flatmap
 
-export const converge = overArgs(compose, [spread, over]);
-const debug = tap(console.log);
+export const converge = fp.overArgs(fp.compose, [fp.spread, fp.over]);
+const debug = fp.tap(console.log);
 
-export const transformTitleToSubcategory = pipe(
-  get('title'),
-  set('subcategory', __, {})
+export const transformTitleToSubcategory = fp.pipe(
+  fp.get('title'),
+  fp.set('subcategory', fp.__, {})
 );
 
-export const transformPlatformCategoryItems = pipe(
-  get('items'),
-  transform((r: {}, v: { route: string; title: string }) => {
-    const filters = get('filters', v);
+export const transformPlatformCategoryItems = fp.pipe(
+  fp.get('items'),
+  fp.transform((r: {}, v: { route: string; title: string }) => {
+    const filters = fp.get('filters', v);
     filters?.forEach((f) => {
       r[`${v.route}/q/platform/${f}`] = {
         title: v.title,
@@ -40,9 +42,26 @@ export const transformPlatformCategoryItems = pipe(
   }, {})
 );
 
-export const transformPlatformCategory = transform((r: {}, v) => {
+const processPlatformCategories = fp.pipe(
+  //debug,
+  fp.get('items'),
+  fp.mapValues(
+    fp.pipe(
+      //debug,
+      converge(fp.merge, [
+        transformTitleToSubcategory,
+        transformPlatformCategoryItems
+      ])
+    )
+  )
+  //flatMap((v, k) => console.log('key:', v))
+  //debug
+  //mapKeys
+  //fp.get('title')
+);
+export const transformPlatformCategory = fp.transform((r: {}, v) => {
   console.log('v: ', v);
-  //console.log('category: ', v.category);
+  console.log('category: ', v.category);
 
   //console.log('category: ', v.category);
   // filters?.forEach((f) => {
@@ -53,49 +72,33 @@ export const transformPlatformCategory = transform((r: {}, v) => {
   // });
 }, {});
 
-const processPlatformCategories = pipe(
+export const platformTitleToCategory = fp.pipe(
   //debug,
-  get('items'),
-  mapValues(
-    pipe(
-      //debug,
-      converge(merge, [
-        transformTitleToSubcategory,
-        transformPlatformCategoryItems
-      ])
-    )
-  )
-  //flatMap((v, k) => console.log('key:', v))
-  //debug
-  //mapKeys
-  //get('title')
+  fp.pick('productRoot.title'),
+  fp.values,
+  fp.head,
+  fp.get('title'),
+  fp.set('category', fp.__, {})
 );
-export const platformTitleToCategory = pipe(
+const processPlatform = fp.pipe(
   //debug,
-  pick('productRoot.title'),
-  values,
-  head,
-  get('title'),
-  set('category', __, {})
-);
-const processPlatform = pipe(
-  //debug,
-  converge(merge, [platformTitleToCategory, processPlatformCategories]),
-  transformPlatformCategory
-  //mapValues(identity)
+  converge(fp.merge, [platformTitleToCategory, processPlatformCategories]),
+  fp.identity
+  //fp.transformPlatformCategory
+  //fp.mapfp.values(fp.identity)
 );
 
-export const buildPlatformPathsFromDirectory = pipe(
-  mapValues(processPlatform)
+export const buildPlatformPathsFromDirectory = fp.pipe(
+  fp.mapValues(processPlatform)
   //forEach((v, k) => console.log('v: ', v, ' k: ', k))
-  //get('cli'),
-  //get('category')
+  //fp.get('cli'),
+  //fp.get('category')
   //debug
-  //mapKeys(identity)
+  //mapKeys(fp.identity)
   //map((v, k) => console.log('v: ', v, ' k: ', k))
   //map((v, k) => console.log('v: ', v, ' k: ', k))
-  //values
-  //identity
+  //fp.values
+  //fp.identity
 );
 
 /*
@@ -110,8 +113,8 @@ export const buildPlatformPathsFromDirectory = pipe(
         title: 'New! Amplify Mobile (Developer Preview)',
         items: [
           {
-            title: 'Getting started',
-            route: '/lib/devpreview/getting-started',
+            title: 'fp.getting started',
+            route: '/lib/devpreview/fp.getting-started',
             filters: ['ios', 'android']
           }
         ]
@@ -121,11 +124,11 @@ export const buildPlatformPathsFromDirectory = pipe(
 }
 
 {
-  '/lib/devpreview/getting-started/q/platform/ios': {
-    page: '/lib/devpreview/getting-started/q/platform/[platform]',
+  '/lib/devpreview/fp.getting-started/q/platform/ios': {
+    page: '/lib/devpreview/fp.getting-started/q/platform/[platform]',
     subcategory: 'New! Amplify Mobile (Developer Preview)',
     category: 'Amplify Libraries',
-    title: 'Getting started'
+    title: 'fp.getting started'
   }
 };
 */
@@ -158,10 +161,10 @@ export function makeSearchable() {
     visit(
       tree,
       ({ type }) => {
-        return ['heading', 'paragraph'].includes(type);
+        return ['fp.heading', 'paragraph'].includes(type);
       },
       (node) => {
-        if (node.type === 'heading') {
+        if (node.type === 'fp.heading') {
           heading = flattenNode(node);
           depth = node.depth;
           return;
