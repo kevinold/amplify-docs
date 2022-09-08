@@ -29,17 +29,14 @@ export const transformTitleToSubcategory = pipe(
 
 export const transformPlatformCategoryItems = pipe(
   get('items'),
-  transform((r, v, k) => {
-    //console.log('v: ', v);
+  transform((r: {}, v: { route: string; title: string }) => {
     const filters = get('filters', v);
-    //console.log('filters: ', filters);
     filters?.forEach((f) => {
       r[`${v.route}/q/platform/${f}`] = {
         title: v.title,
         page: `${v.route}/q/platform/[platform]`
       };
     });
-    //r[k] = v;
   }, {})
 );
 
