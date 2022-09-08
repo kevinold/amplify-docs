@@ -42,13 +42,22 @@ export const transformPlatformCategoryItems = fp.pipe(
   }, {})
 );
 
+const mergeSubcategoryWithCategoryItems = ({ subcategory }, categoryItems) =>
+  fp.map((i) => {
+    return {
+      subcategory,
+      ...i
+    };
+  }, categoryItems);
+
 const processPlatformCategories = fp.pipe(
   //debug,
   fp.get('items'),
   fp.mapValues(
     fp.pipe(
       //debug,
-      converge(fp.merge, [
+      //converge(fp.merge, [
+      converge(mergeSubcategoryWithCategoryItems, [
         transformTitleToSubcategory,
         transformPlatformCategoryItems
       ])
@@ -61,9 +70,16 @@ const processPlatformCategories = fp.pipe(
 );
 export const transformPlatformCategory = fp.transform((r: {}, v) => {
   console.log('v: ', v);
-  console.log('category: ', v.category);
 
-  //console.log('category: ', v.category);
+  const category = v.category;
+  console.log('category: ', category);
+
+  const subcats = fp.unset('category', v);
+  console.log('subcats', subcats);
+
+  const nosubcat = fp.mapValues(debug, subcats);
+  console.log('nosubcats', nosubcat);
+
   // filters?.forEach((f) => {
   //   r[`${v.route}/q/platform/${f}`] = {
   //     title: v.title,
@@ -82,15 +98,15 @@ export const platformTitleToCategory = fp.pipe(
 );
 const processPlatform = fp.pipe(
   //debug,
-  converge(fp.merge, [platformTitleToCategory, processPlatformCategories]),
-  fp.identity
-  //fp.transformPlatformCategory
-  //fp.mapfp.values(fp.identity)
+  converge(fp.merge, [platformTitleToCategory, processPlatformCategories])
+  //fp.identity
+  //fp.mapValues(fp.identity)
 );
 
 export const buildPlatformPathsFromDirectory = fp.pipe(
   fp.mapValues(processPlatform)
-  //forEach((v, k) => console.log('v: ', v, ' k: ', k))
+  //transformPlatformCategory
+  //fp.forEach((v, k) => console.log('v: ', v, ' k: ', k))
   //fp.get('cli'),
   //fp.get('category')
   //debug
