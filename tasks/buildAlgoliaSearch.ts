@@ -24,6 +24,10 @@ import { visit } from 'unist-util-visit';
 export const converge = fp.overArgs(fp.compose, [fp.spread, fp.over]);
 const debug = fp.tap(console.log);
 
+// per https://github.com/lodash/lodash/wiki/FP-Guide#convert
+// @ts-ignore
+export const mapValuesWithKey = fp.mapValues.convert({ cap: false });
+
 export const transformTitleToSubcategory = fp.pipe(
   fp.get('title'),
   fp.set('subcategory', fp.__, {})

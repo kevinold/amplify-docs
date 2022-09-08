@@ -12,6 +12,7 @@ describe('build algolia search', () => {
     //   amplifyDocsDirectory
     // );
   });
+
   test('should transform platform product root title to category', () => {
     const actual = platformTitleToCategory(amplifyDocsDirectory['lib']);
     expect(actual).toHaveProperty('category');
