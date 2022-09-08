@@ -27,6 +27,22 @@ export const transformTitleToSubcategory = pipe(
   set('subcategory', __, {})
 );
 
+export const transformPlatformCategoryItems = pipe(
+  get('items'),
+  transform((r, v, k) => {
+    //console.log('v: ', v);
+    const filters = get('filters', v);
+    //console.log('filters: ', filters);
+    filters?.forEach((f) => {
+      r[`${v.route}/q/platform/${f}`] = {
+        title: v.title,
+        page: `${v.route}/q/platform/[platform]`
+      };
+    });
+    //r[k] = v;
+  }, {})
+);
+
 const processPlatformCategories = pipe(
   //debug,
   get('items'),
@@ -35,21 +51,7 @@ const processPlatformCategories = pipe(
       //debug,
       converge(merge, [
         transformTitleToSubcategory,
-        pipe(
-          get('items'),
-          transform((r, v, k) => {
-            //console.log('v: ', v);
-            const filters = get('filters', v);
-            //console.log('filters: ', filters);
-            filters?.forEach((f) => {
-              r[`${v.route}/q/platform/${f}`] = {
-                title: v.title,
-                page: `${v.route}/q/platform/[platform]`
-              };
-            });
-            //r[k] = v;
-          }, {})
-        )
+        transformPlatformCategoryItems
       ])
     )
   )
