@@ -51,19 +51,20 @@ describe('build algolia search', () => {
     //   ]
     // ).toContain({
     //expect(platformPathsWithMetadata).toContain({
-    expect(actual).toContain({
-      page: '/lib/devpreview/getting-started/q/platform/[platform]',
-      subcategory: 'New! Amplify Mobile (Developer Preview)',
-      category: 'Amplify Libraries',
-      title: 'Getting started'
-    });
-    // expect(platformPathsWithMetadata).toContain({
-    //   '/lib/devpreview/getting-started/q/platform/ios': {
-    //     page: '/lib/devpreview/getting-started/q/platform/[platform]',
-    //     subcategory: 'New! Amplify Mobile (Developer Preview)',
-    //     category: 'Amplify Libraries',
-    //     title: 'Getting started'
-    //   }
+    // expect(actual).toContain({
+    //   page: '/lib/devpreview/getting-started/q/platform/[platform]',
+    //   subcategory: 'New! Amplify Mobile (Developer Preview)',
+    //   category: 'Amplify Libraries',
+    //   title: 'Getting started'
     // });
+    //expect(platformPathsWithMetadata).toContain({
+    expect(actual).toMatchObject({
+      '/lib/devpreview/getting-started/q/platform/ios': {
+        page: '/lib/devpreview/getting-started/q/platform/[platform]',
+        subcategory: 'New! Amplify Mobile (Developer Preview)',
+        category: 'Amplify Libraries',
+        title: 'Getting started'
+      }
+    });
   });
 });

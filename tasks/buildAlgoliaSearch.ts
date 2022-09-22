@@ -96,8 +96,19 @@ const processPlatform = fp.pipe(
   ])
 );
 
+const removeNesting = (platformPaths) => {
+  let result = {};
+  Object.keys(platformPaths).forEach((a) => {
+    Object.keys(platformPaths[a]).forEach((b) => {
+      result = fp.merge(result, platformPaths[a][b]);
+    });
+  });
+  return result;
+};
+
 export const buildPlatformPathsFromDirectory = fp.pipe(
-  fp.mapValues(processPlatform)
+  fp.mapValues(processPlatform),
+  removeNesting
 );
 
 /*
