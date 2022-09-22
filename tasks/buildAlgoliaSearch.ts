@@ -26,6 +26,7 @@ const debug = fp.tap(console.log);
 
 // per https://github.com/lodash/lodash/wiki/FP-Guide#convert
 // @ts-ignore
+export const mapWithKey = fp.map.convert({ cap: false });
 export const mapValuesWithKey = fp.mapValues.convert({ cap: false });
 
 export const transformTitleToSubcategory = fp.pipe(
@@ -44,26 +45,28 @@ export const transformPlatformCategoryItems = fp.pipe(
       };
     });
   }, {})
+  //debug
 );
 
 const mergeSubcategoryWithCategoryItems = ({ subcategory }, categoryItems) =>
-  fp.map((i) => {
+  mapValuesWithKey((v, k) => {
     return {
       subcategory,
-      ...i
+      ...v
     };
   }, categoryItems);
 
 const processPlatformCategories = fp.pipe(
   //debug,
   fp.get('items'),
+  debug,
   fp.mapValues(
     fp.pipe(
-      //debug,
       converge(mergeSubcategoryWithCategoryItems, [
         transformTitleToSubcategory,
         transformPlatformCategoryItems
       ])
+      //debug
     )
   )
 );
