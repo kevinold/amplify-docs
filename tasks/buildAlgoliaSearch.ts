@@ -71,25 +71,6 @@ const processPlatformCategories = fp.pipe(
   )
   //debug
 );
-export const transformPlatformCategory = fp.transform((r: {}, v) => {
-  console.log('v: ', v);
-
-  const category = v.category;
-  console.log('category: ', category);
-
-  const subcats = fp.unset('category', v);
-  console.log('subcats', subcats);
-
-  const nosubcat = fp.mapValues(debug, subcats);
-  console.log('nosubcats', nosubcat);
-
-  // filters?.forEach((f) => {
-  //   r[`${v.route}/q/platform/${f}`] = {
-  //     title: v.title,
-  //     page: `${v.route}/q/platform/[platform]`
-  //   };
-  // });
-}, {});
 
 export const platformTitleToCategory = fp.pipe(
   //debug,
@@ -117,16 +98,6 @@ const processPlatform = fp.pipe(
 
 export const buildPlatformPathsFromDirectory = fp.pipe(
   fp.mapValues(processPlatform)
-  //transformPlatformCategory
-  //fp.forEach((v, k) => console.log('v: ', v, ' k: ', k))
-  //fp.get('cli'),
-  //fp.get('category')
-  //debug
-  //mapKeys(fp.identity)
-  //map((v, k) => console.log('v: ', v, ' k: ', k))
-  //map((v, k) => console.log('v: ', v, ' k: ', k))
-  //fp.values
-  //fp.identity
 );
 
 /*
