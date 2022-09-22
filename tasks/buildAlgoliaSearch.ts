@@ -96,7 +96,7 @@ const processPlatform = fp.pipe(
   ])
 );
 
-const removeNesting = (platformPaths) => {
+const flattenPlatformNesting = (platformPaths) => {
   let result = {};
   Object.keys(platformPaths).forEach((a) => {
     Object.keys(platformPaths[a]).forEach((b) => {
@@ -108,7 +108,7 @@ const removeNesting = (platformPaths) => {
 
 export const buildPlatformPathsFromDirectory = fp.pipe(
   fp.mapValues(processPlatform),
-  removeNesting
+  flattenPlatformNesting
 );
 
 /*
