@@ -49,7 +49,7 @@ export const transformPlatformCategoryItems = fp.pipe(
 );
 
 const mergeSubcategoryWithCategoryItems = ({ subcategory }, categoryItems) =>
-  mapValuesWithKey((v, k) => {
+  fp.mapValues((v) => {
     return {
       subcategory,
       ...v
@@ -59,7 +59,7 @@ const mergeSubcategoryWithCategoryItems = ({ subcategory }, categoryItems) =>
 const processPlatformCategories = fp.pipe(
   //debug,
   fp.get('items'),
-  debug,
+  //debug,
   fp.mapValues(
     fp.pipe(
       converge(mergeSubcategoryWithCategoryItems, [
@@ -69,6 +69,7 @@ const processPlatformCategories = fp.pipe(
       //debug
     )
   )
+  //debug
 );
 export const transformPlatformCategory = fp.transform((r: {}, v) => {
   console.log('v: ', v);
@@ -112,7 +113,6 @@ const processPlatform = fp.pipe(
     platformTitleToCategory,
     processPlatformCategories
   ])
-  //fp.mapValues(debug)
 );
 
 export const buildPlatformPathsFromDirectory = fp.pipe(
