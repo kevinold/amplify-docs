@@ -5,12 +5,12 @@ import {
   transformTitleToSubcategory
 } from './buildAlgoliaSearch';
 
-//let platformPathsWithMetadata;
+let platformPathsWithMetadata;
 describe('build algolia search', () => {
   beforeEach(() => {
-    // platformPathsWithMetadata = buildPlatformPathsFromDirectory(
-    //   amplifyDocsDirectory
-    // );
+    platformPathsWithMetadata = buildPlatformPathsFromDirectory(
+      amplifyDocsDirectory
+    );
   });
 
   test('should transform platform product root title to category', () => {
@@ -24,27 +24,27 @@ describe('build algolia search', () => {
     expect(actual).not.toHaveProperty('title');
   });
   test('buildPlatformPathsFromDirectory should contain the correct path objects', () => {
-    const testDirectory = {
-      lib: {
-        productRoot: {
-          title: 'Amplify Libraries',
-          route: '/lib'
-        },
-        items: {
-          devpreview: {
-            title: 'New! Amplify Mobile (Developer Preview)',
-            items: [
-              {
-                title: 'Getting started',
-                route: '/lib/devpreview/getting-started',
-                filters: ['ios', 'android']
-              }
-            ]
-          }
-        }
-      }
-    };
-    const actual = buildPlatformPathsFromDirectory(testDirectory);
+    // const testDirectory = {
+    //   lib: {
+    //     productRoot: {
+    //       title: 'Amplify Libraries',
+    //       route: '/lib'
+    //     },
+    //     items: {
+    //       devpreview: {
+    //         title: 'New! Amplify Mobile (Developer Preview)',
+    //         items: [
+    //           {
+    //             title: 'Getting started',
+    //             route: '/lib/devpreview/getting-started',
+    //             filters: ['ios', 'android']
+    //           }
+    //         ]
+    //       }
+    //     }
+    //   }
+    // };
+    //const actual = buildPlatformPathsFromDirectory(testDirectory);
     // expect(
     //   platformPathsWithMetadata['lib']['devpreview'][
     //     '/lib/devpreview/getting-started/q/platform/ios'
@@ -57,8 +57,8 @@ describe('build algolia search', () => {
     //   category: 'Amplify Libraries',
     //   title: 'Getting started'
     // });
-    //expect(platformPathsWithMetadata).toContain({
-    expect(actual).toMatchObject({
+    //expect(actual).toMatchObject({
+    expect(platformPathsWithMetadata).toMatchObject({
       '/lib/devpreview/getting-started/q/platform/ios': {
         page: '/lib/devpreview/getting-started/q/platform/[platform]',
         subcategory: 'New! Amplify Mobile (Developer Preview)',

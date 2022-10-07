@@ -31,6 +31,7 @@ export const mapValuesWithKey = fp.mapValues.convert({ cap: false });
 
 export const transformTitleToSubcategory = fp.pipe(
   fp.get('title'),
+  debug,
   fp.set('subcategory', fp.__, {})
 );
 
